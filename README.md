@@ -59,6 +59,50 @@ deepReduce([{a: 1},{b: 2},{a: 3}], (r,v) => typeof v === 'number' ? r + v : r, 0
 // 6
 ```
 
+Here is how you would collect all items of nested arrays at some specific path:
+```js
+// we want to get contents from all packets
+let transport = {
+  id: 'A8811',
+  packages: [
+    {
+      id: 'P100',
+      contents: [
+        {
+          id: 'R88',
+          name: 'resistor'
+        },
+        {
+          id: 'C99',
+          name: 'capacitor'
+        }
+      ]
+    }, {
+      id: 'P101',
+      contents: [
+        {
+          id: 'C96',
+          name: 'coil'
+        }
+      ]
+    }
+  ]
+}
+
+let contents = deepReduce(transport, (reduced, value, path) => {
+  if (path.match(/packages\.\d+\.contents\.\d+$/)) {
+    // path is packages.n.contents.m
+    // item n in packages array, content m in contents array
+    reduced.push(value)
+  }
+  return reduced
+}, [])  // start with an empty array
+
+// [ { id: 'R88', name: 'resistor' },
+//   { id: 'C99', name: 'capacitor' },
+//   { id: 'C96', name: 'coil' } ]
+```
+
 
 ## API
 `deepReduce` takes 5 arguments. 2 mandatory and 3 optional:

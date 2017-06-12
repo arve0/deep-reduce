@@ -27,3 +27,40 @@ assert.deepEqual(reduced, {
   'c.1.d': 'c.1.d',
   'c.1.e.0': 'c.1.e.0'
 })
+
+reduced = dr({
+  id: 'A8811',
+  packages: [
+    {
+      id: 'P100',
+      contents: [
+        {
+          id: 'R88',
+          name: 'resistor'
+        },
+        {
+          id: 'C99',
+          name: 'capacitor'
+        }
+      ]
+    }, {
+      id: 'P101',
+      contents: [
+        {
+          id: 'C96',
+          name: 'coil'
+        }
+      ]
+    }
+  ]
+}, (reduced, value, path) => {
+  if (path.match(/packages\.\d+\.contents\.\d+$/)) {
+    reduced.push(value)
+  }
+  return reduced
+}, [])
+
+assert.deepEqual(reduced, [
+  { id: 'R88', name: 'resistor' },
+  { id: 'C99', name: 'capacitor' },
+  { id: 'C96', name: 'coil' } ])
