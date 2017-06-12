@@ -1,9 +1,9 @@
 
 interface ReducerFunction {
-  (reduced, value, path: string, obj: object): any
+  (reduced: any, value: any, path: string, obj: object): any
 }
 
-function deepReduce (obj: object, reducer: ReducerFunction, reduced = {}, path = '', thisArg = {}): any {
+  function deepReduce (obj: any, reducer: ReducerFunction, reduced = {}, path = '', thisArg = {}): any {
   let pathArr = path === '' ? [] : path.split('.')
   let root = obj  // keep value of root object, for recursion
 

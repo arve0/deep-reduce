@@ -6,7 +6,7 @@
   "scripts": {
     "preversion": "npm test",
     "postpublish": "git push && git push --tags",
-    "start": "tsc --watch index.ts",
+    "start": "tsc --strict --watch index.ts",
     "test": "node test.js"
   },
   "repository": {
