@@ -92,7 +92,8 @@ let transport = {
 let contents = deepReduce(transport, (reduced, value, path) => {
   if (path.match(/packages\.\d+\.contents\.\d+$/)) {
     // path is packages.n.contents.m
-    // item n in packages array, content m in contents array
+    // item n in packages array
+    // item m in contents array
     reduced.push(value)
   }
   return reduced
