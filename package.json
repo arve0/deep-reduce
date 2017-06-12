@@ -1,6 +1,6 @@
 {
   "name": "deep-reduce",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "reduce objects deeply, call reducer for every nested node in object tree",
   "main": "index.js",
   "scripts": {
