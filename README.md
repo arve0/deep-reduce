@@ -83,7 +83,7 @@ deepReduce (obj: object, reducer: ReducerFunction, reduced = {}, path = '', this
 - `thisArg` Bound to reducer as `this`.
 
 ### Arguments for reducer function
-The reducer function are called with these arguments:
+The reducer function is called with these arguments:
 
 ```ts
 interface ReducerFunction {
