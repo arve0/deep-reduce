@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/arve0/deep-reduce.svg?branch=master)](https://travis-ci.org/arve0/deep-reduce) [![npm version](https://badge.fury.io/js/deep-reduce.svg)](https://badge.fury.io/js/deep-reduce)
 # deep-reduce
 Reduce objects deeply, call reducer for every nested node in object tree.
 
