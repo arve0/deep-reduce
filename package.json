@@ -26,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/arve0/deep-reduce/issues"
   },
-  "homepage": "https://github.com/arve0/deep-reduce#readme"
+  "homepage": "https://github.com/arve0/deep-reduce#readme",
+  "runkitExampleFilename": "example.js"
 }

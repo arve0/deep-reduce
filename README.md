@@ -10,6 +10,8 @@ npm i deep-reduce
 
 
 ## Usage
+[Try example in browser](https://runkit.com/npm/deep-reduce).
+
 ```js
 const deepReduce = require('deep-reduce')
 const deepEqual = require('assert').deepEqual
@@ -49,6 +51,7 @@ deepEqual(reduced, {
   'c.1.e.0': 'c.1.e.0'
 })
 ```
+
 
 ## API
 `deepReduce` takes 5 arguments. 2 mandatory and 3 optional:
