@@ -13,7 +13,7 @@ npm i deep-reduce
 const deepReduce = require('deep-reduce')
 const deepEqual = require('assert').deepEqual
 
-// let nested leaf values be equal to their path
+// let nested leaf values be equal to their path, for demonstration purpose
 let deepNestedObject = {
   a: 'a',
   b: { c: 'b.c' },
@@ -28,9 +28,7 @@ let deepNestedObject = {
   ]
 }
 
-/**
- * Store all values which are strings to reduced[path].
- */
+// store all values which are strings to reduced[path].
 let flattenStrings = (reduced, value, path) => {
   if (typeof value === 'string') {
     reduced[path] = value
@@ -38,8 +36,10 @@ let flattenStrings = (reduced, value, path) => {
   return reduced
 }
 
+// the reduced value is returned
 let reduced = deepReduce(deepNestedObject, flattenStrings)
 
+// we should now have this object
 deepEqual(reduced, {
   'a': 'a',
   'b.c': 'b.c',
