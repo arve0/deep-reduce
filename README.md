@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/arve0/deep-reduce.svg?branch=master)](https://travis-ci.org/arve0/deep-reduce) [![npm version](https://badge.fury.io/js/deep-reduce.svg)](https://badge.fury.io/js/deep-reduce)
 # deep-reduce
-Reduce objects deeply, call reducer for every nested node in object tree.
+Reduce objects deeply, call reducer for every nested node in object tree. Use `deepReduce` for
+transforming/getting values from awfully nested objects. `deepReduce` also traverse arrays.
 
 
 ## Install
@@ -52,6 +53,12 @@ deepEqual(reduced, {
 })
 ```
 
+Root object may be an array also:
+```js
+deepReduce([{a: 1},{b: 2},{a: 3}], (r,v) => typeof v === 'number' ? r + v : r, 0)
+// 6
+```
+
 
 ## API
 `deepReduce` takes 5 arguments. 2 mandatory and 3 optional:
@@ -60,10 +67,11 @@ deepEqual(reduced, {
 deepReduce (obj: object, reducer: ReducerFunction, reduced = {}, path = '', thisArg = {}): any
 ```
 
-**Arguments**:
+### Arguments
 - `obj` Object to traverse.
-- `reducer` Function to call with every value in `obj`-tree. See further below for function signature.
-- `reduced` Initial value of `reduced` passed to `reducer`. Default to empty object `{}`.
+- `reducer` Function to call with every value in `obj`-tree. See section below
+  for [`reducer` function signature](#arguments-for-reducer-function).
+- `reduced` Initial value of `reduced` passed to `reducer`. Defaults to empty object `{}`.
 - `path` Path to root, start traversing here. Nice to omit looping through parts of `obj`.
 
   Example:
@@ -74,7 +82,7 @@ deepReduce (obj: object, reducer: ReducerFunction, reduced = {}, path = '', this
 
 - `thisArg` Bound to reducer as `this`.
 
-**Arguments for reducer function**:
+### Arguments for reducer function
 The reducer function are called with these arguments:
 
 ```ts
