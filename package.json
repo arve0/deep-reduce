@@ -1,0 +1,30 @@
+{
+  "name": "deep-reduce",
+  "version": "1.0.0",
+  "description": "reduce objects deeply, call reducer for every nested node in object tree",
+  "main": "index.js",
+  "scripts": {
+    "preversion": "npm test",
+    "postpublish": "git push && git push --tags",
+    "start": "tsc --watch index.ts",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arve0/deep-reduce.git"
+  },
+  "keywords": [
+    "object",
+    "deep",
+    "reduce",
+    "nested",
+    "transform",
+    "reducer"
+  ],
+  "author": "Arve Seljebu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arve0/deep-reduce/issues"
+  },
+  "homepage": "https://github.com/arve0/deep-reduce#readme"
+}
