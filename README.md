@@ -109,7 +109,12 @@ let contents = deepReduce(transport, (reduced, value, path) => {
 `deepReduce` takes 5 arguments. 2 mandatory and 3 optional:
 
 ```ts
-deepReduce (obj: object, reducer: ReducerFunction, reduced = {}, path = '', thisArg = {}): any
+deepReduce (
+  obj: object,
+  reducer: (reduced: any, value: any, path: string, root: object) => any,
+  reduced = {},
+  path = '',
+  thisArg = {}): any
 ```
 
 ### Arguments
@@ -131,15 +136,13 @@ deepReduce (obj: object, reducer: ReducerFunction, reduced = {}, path = '', this
 The reducer function is called with these arguments:
 
 ```ts
-interface ReducerFunction {
-  (reduced, value, path: string, obj: object): any
-}
+(reduced: any, value: any, path: string, root: object) => any
 ```
 
 - `reduced` Initial or current reduced value.
 - `value` Value of current node.
 - `path` Path to current value.
-- `obj` Root object passed to `deepReduce` as `obj`.
+- `root` Root object passed to `deepReduce` as `obj`.
 
 The `reducer` should return the `reduced` value.
 

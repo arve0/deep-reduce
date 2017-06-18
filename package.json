@@ -4,9 +4,10 @@
   "description": "reduce objects deeply, call reducer for every nested node in object tree",
   "main": "index.js",
   "scripts": {
-    "preversion": "npm test",
+    "build": "tsc --strict -d index.ts",
+    "preversion": "npm run build && npm test",
     "postpublish": "git push && git push --tags",
-    "start": "tsc --strict --watch index.ts",
+    "start": "tsc --strict -d --watch index.ts",
     "test": "node test.js"
   },
   "repository": {
