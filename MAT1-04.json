@@ -1,0 +1,3213 @@
+{
+  "id": "uuid:efc05c69-f7df-4134-8ab1-6fbcb3a642f3",
+  "kode": "MAT1-04",
+  "uri": "http://psi.udir.no/kl06/MAT1-04",
+  "url-data": "http://data.udir.no/kl06/MAT1-04",
+  "tittel": [
+    {
+      "spraak": "http://data.udir.no/kl06/nob",
+      "verdi": "Læreplan i matematikk fellesfag"
+    }
+  ],
+  "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+  "status": "http://data.udir.no/kl06/status_publisert",
+  "sist-endret": "2016-09-09T10:26:39.1179111",
+  "fagtype": {
+    "kode": "fagtype_fellesfag",
+    "uri": "http://psi.udir.no/kl06/fagtype_fellesfag",
+    "url-data": "http://data.udir.no/kl06/fagtype_fellesfag",
+    "tittel": "Fellesfag"
+  },
+  "fastsettelsesinformasjon": {
+    "fastsatt-dato": "2013-06-21T00:00:00",
+    "fastsettelsestekst": [
+      {
+        "spraak": "http://data.udir.no/kl06/nob",
+        "verdi": "<p class=\"grep\">Fastsatt som forskrift av Kunnskapsdepartementet 21.06.2013</p>"
+      }
+    ],
+    "fastsatt-spraak": {
+      "kode": "nno",
+      "uri": "http://psi.udir.no/kl06/nno",
+      "url-data": "http://data.udir.no/kl06/nno",
+      "tittel": "Nynorsk"
+    },
+    "fastsatt-dato-overskrift": [
+      {
+        "spraak": "http://data.udir.no/kl06/nob",
+        "verdi": "Fastsatt"
+      }
+    ]
+  },
+  "gyldighetsperiode": {
+    "gyldig-fra": {
+      "overskrift": [
+        {
+          "spraak": "http://data.udir.no/kl06/nob",
+          "verdi": "Gjelder fra <>"
+        }
+      ],
+      "dato": "2013-08-01T00:00:00"
+    },
+    "gyldig-til": {
+      "overskrift": [
+        {
+          "spraak": "http://data.udir.no/kl06/nob",
+          "verdi": "Gjelder til <>"
+        }
+      ],
+      "dato": null
+    }
+  },
+  "erstatter": [
+    {
+      "status": "http://data.udir.no/kl06/status_utgaatt",
+      "kode": "MAT1-03",
+      "uri": "http://psi.udir.no/kl06/MAT1-03",
+      "url-data": "http://data.udir.no/kl06/MAT1-03",
+      "tittel": "Læreplan i matematikk fellesfag"
+    }
+  ],
+  "erstattes-av": [],
+  "tilgjengelige-spraak": [
+    {
+      "kode": "nob",
+      "uri": "http://psi.udir.no/kl06/nob",
+      "url-data": "http://data.udir.no/kl06/nob",
+      "tittel": "Bokmål"
+    },
+    {
+      "kode": "eng",
+      "uri": "http://psi.udir.no/kl06/eng",
+      "url-data": "http://data.udir.no/kl06/eng",
+      "tittel": "Engelsk"
+    },
+    {
+      "kode": "smj",
+      "uri": "http://psi.udir.no/kl06/smj",
+      "url-data": "http://data.udir.no/kl06/smj",
+      "tittel": "Lulesamisk"
+    },
+    {
+      "kode": "sme",
+      "uri": "http://psi.udir.no/kl06/sme",
+      "url-data": "http://data.udir.no/kl06/sme",
+      "tittel": "Nordsamisk"
+    },
+    {
+      "kode": "nno",
+      "uri": "http://psi.udir.no/kl06/nno",
+      "url-data": "http://data.udir.no/kl06/nno",
+      "tittel": "Nynorsk"
+    },
+    {
+      "kode": "sma",
+      "uri": "http://psi.udir.no/kl06/sma",
+      "url-data": "http://data.udir.no/kl06/sma",
+      "tittel": "Sørsamisk"
+    }
+  ],
+  "formaal-kapittel": {
+    "overskrift": [
+      {
+        "spraak": "http://data.udir.no/kl06/nob",
+        "verdi": "Formål"
+      }
+    ],
+    "tekst": [
+      {
+        "spraak": "http://data.udir.no/kl06/nob",
+        "verdi": "<p class=\"grep\">Matematikk er en del av den globale kulturarven vår. Mennesket har til alle tider brukt og utviklet matematikk for å systematisere erfaringer, for å beskrive og forstå sammenhenger i naturen og i samfunnet og for å utforske universet. En annen inspirasjonskilde til utviklingen av faget har vært menneskers glede over arbeid med matematikk i seg selv. Faget griper inn i mange vitale samfunnsområder, som medisin, økonomi, teknologi, kommunikasjon, energiforvaltning og byggevirksomhet. Solid kompetanse i matematikk er dermed en forutsetning for utvikling av samfunnet. Et aktivt demokrati trenger borgere som kan sette seg inn i, forstå og kritisk vurdere kvantitativ informasjon, statistiske analyser og økonomiske prognoser. På den måten er matematisk kompetanse nødvendig for å forstå og kunne påvirke prosesser i samfunnet.</p><p class=\"grep\">Matematisk kompetanse innebærer å bruke problemløsning og modellering til å analysere og omforme et problem til matematisk form, løse det og vurdere gyldigheten av løsningen. Dette har også språklige aspekter, som det å formidle, samtale om og resonnere omkring ideer. I det meste av matematisk aktivitet benyttes hjelpemidler og teknologi. Både det å kunne bruke og vurdere ulike hjelpemidler og det å kjenne til begrensningene deres er viktige deler av faget. Kompetanse i matematikk er et viktig redskap for den enkelte, og faget kan legge grunnlag for å ta videre utdanning og for å delta i yrkesliv og fritidsaktiviteter. Matematikk ligger til grunn for store deler av vår kulturhistorie og utviklingen av logisk tenkning. På den måten spiller faget en sentral rolle i den allmenne dannelsen ved å påvirke identitet, tenkemåte og selvforståelse.</p><p class=\"grep\">Matematikkfaget i skolen bidrar til å utvikle den matematiske kompetansen som samfunnet og den enkelte trenger. For å oppnå dette må elevene få anledning til å arbeide både praktisk og teoretisk. Opplæringen veksler mellom utforskende, lekende, kreative og problemløsende aktiviteter og ferdighetstrening. I praktisk bruk viser matematikk sin nytte som redskapsfag. I skolearbeidet utnyttes sentrale ideer, former, strukturer og sammenhenger i faget. Elevene må utfordres til å kommunisere matematikk skriftlig, muntlig og digitalt. Det må legges til rette for at både jenter og gutter får rike erfaringer med matematikkfaget, som skaper positive holdninger og en solid fagkompetanse. Slik blir det lagt et grunnlag for livslang læring.</p>"
+      }
+    ]
+  },
+  "timetall-kapittel": {
+    "overskrift": [
+      {
+        "spraak": "http://data.udir.no/kl06/nob",
+        "verdi": "Timetall"
+      }
+    ],
+    "tekst": [
+      {
+        "spraak": "http://data.udir.no/kl06/nob",
+        "verdi": "<p class=\"grep\">Timetall er oppgitt i 60-minutters enheter.</p><p class=\"grep\">BARNETRINNET</p><p class=\"grep\">1.–4. årstrinn: 560 timer</p><p class=\"grep\">5.–7. årstrinn: 328 timer</p><p class=\"grep\">UNGDOMSTRINNET</p><p class=\"grep\">8.–10. årstrinn: 313 timer</p><p class=\"grep\">STUDIEFORBEREDENDE UTDANNINGSPROGRAM</p><p class=\"grep\">Vg1: 140 timer</p><p class=\"grep\">YRKESFAGLIGE UTDANNINGSPROGRAM</p><p class=\"grep\">Vg1: 84 timer</p>"
+      }
+    ]
+  },
+  "struktur-kapittel": null,
+  "grunnleggende-ferdigheter-kapittel": {
+    "overskrift": [
+      {
+        "spraak": "http://data.udir.no/kl06/nob",
+        "verdi": "Grunnleggende ferdigheter"
+      }
+    ],
+    "innledning": [
+      {
+        "spraak": "http://data.udir.no/kl06/nob",
+        "verdi": "<p class=\"grep\">Grunnleggende ferdigheter er integrert i kompetansemålene, der de bidrar til utvikling av fagkompetansen og er en del av den. I matematikk forstås grunnleggende ferdigheter slik:</p>"
+      }
+    ],
+    "muntlig": {
+      "overskrift": [
+        {
+          "spraak": "http://data.udir.no/kl06/nob",
+          "verdi": "Å kunne uttrykke seg muntlig"
+        }
+      ],
+      "tekst": [
+        {
+          "spraak": "http://data.udir.no/kl06/nob",
+          "verdi": "<p class=\"grep\"><i>Muntlige ferdigheter </i>i matematikk innebærer å skape mening gjennom å lytte, tale og samtale om matematikk. Det innebærer å gjøre seg opp en mening, stille spørsmål og argumentere ved hjelp av både et uformelt språk, presis fagterminologi og begrepsbruk. Det vil si å være med i samtaler, kommunisere ideer og drøfte matematiske problemer, løsninger og strategier med andre. Utviklingen i muntlige ferdigheter i matematikk går fra å delta i samtaler om matematikk til å presentere og drøfte komplekse faglige emner. Videre går utviklingen fra å bruke et enkelt matematisk språk til å bruke presis fagterminologi og uttrykksmåte og presise begreper.</p>"
+        }
+      ]
+    },
+    "skriftlig": {
+      "overskrift": [
+        {
+          "spraak": "http://data.udir.no/kl06/nob",
+          "verdi": "Å kunne uttrykke seg skriftlig"
+        }
+      ],
+      "tekst": [
+        {
+          "spraak": "http://data.udir.no/kl06/nob",
+          "verdi": "<p class=\"grep\"><i>Å kunne skrive </i>i matematikk innebærer å beskrive og forklare en tankegang og sette ord på oppdagelser og ideer. Det innebærer å bruke matematiske symboler og det formelle matematiske språket til å løse problemer og presentere løsninger. Videre vil det si å lage tegninger, skisser, figurer, grafer, tabeller og diagrammer som er tilpasset mottakeren og situasjonen. Skriving i matematikk er et redskap for å utvikle egne tanker og egen læring. Utviklingen i å skrive i matematikk går fra å bruke enkle uttrykksformer til gradvis å ta i bruk et formelt symbolspråk og en presis fagterminologi. Videre går utviklingen fra å beskrive og systematisere enkle situasjoner med matematikkfaglig innhold til å bygge opp en helhetlig argumentasjon omkring komplekse sammenhenger.</p>"
+        }
+      ]
+    },
+    "lese": {
+      "overskrift": [
+        {
+          "spraak": "http://data.udir.no/kl06/nob",
+          "verdi": "Å kunne lese"
+        }
+      ],
+      "tekst": [
+        {
+          "spraak": "http://data.udir.no/kl06/nob",
+          "verdi": "<p class=\"grep\"><i>Å kunne lese </i>i matematikk innebærer å forstå og bruke symbolspråk og uttrykksformer for å skape mening i tekster fra dagligliv og yrkesliv så vel som matematikkfaglige tekster. Matematikkfaget er preget av sammensatte tekster som inneholder matematiske uttrykk, grafer, diagrammer, tabeller, symboler, formler og logiske resonnementer. Lesing i matematikk innebærer å sortere informasjon, analysere og vurdere form og innhold og sammenfatte informasjon fra ulike elementer i tekster. Utviklingen i å lese i matematikk går fra å finne og bruke informasjon i tekster med enkelt symbolspråk til å finne mening og reflektere over komplekse fagtekster med avansert symbolspråk og begrepsbruk.</p>"
+        }
+      ]
+    },
+    "regne": {
+      "overskrift": [
+        {
+          "spraak": "http://data.udir.no/kl06/nob",
+          "verdi": "Å kunne regne"
+        }
+      ],
+      "tekst": [
+        {
+          "spraak": "http://data.udir.no/kl06/nob",
+          "verdi": "<p class=\"grep\"><i>Å kunne regne </i>i matematikk innebærer å bruke symbolspråk, matematiske begreper, framgangsmåter og varierte strategier til problemløsning og utforskning som tar utgangspunkt både i praktiske, dagligdagse situasjoner og i matematiske problemer. Dette innebærer å gjenkjenne og beskrive situasjoner der matematikk inngår, og bruke matematiske metoder til å behandle problemstillinger. Eleven må også kommunisere og vurdere gyldigheten av løsningene. Utviklingen av å regne i matematikk går fra grunnleggende tallforståelse og å gjenkjenne og løse problemer ut fra enkle situasjoner til å analysere og løse et spekter av komplekse problemer med et variert utvalg av strategier og metoder. Videre innebærer det i økende grad å bruke ulike hjelpemidler i beregninger, modellering og kommunikasjon.</p>"
+        }
+      ]
+    },
+    "digitale": {
+      "overskrift": [
+        {
+          "spraak": "http://data.udir.no/kl06/nob",
+          "verdi": "Å kunne bruke digitale verktøy"
+        }
+      ],
+      "tekst": [
+        {
+          "spraak": "http://data.udir.no/kl06/nob",
+          "verdi": "<p class=\"grep\"><i>Digitale ferdigheter </i>i matematikk innebærer å bruke digitale verktøy til læring gjennom spill, utforskning, visualisering og presentasjon. Det handler også om å kjenne til, bruke og vurdere digitale verktøy til beregninger, problemløsning, simulering og modellering. Videre vil det si å finne informasjon, analysere, behandle og presentere data med hensiktsmessige verktøy, og være kritisk til kilder, analyser og resultater. Utvikling i digitale ferdigheter innebærer å arbeide med sammensatte digitale tekster med økende grad av kompleksitet. Videre innebærer det å bli stadig mer oppmerksom på den nytten digitale verktøy har for læring i matematikkfaget.</p>"
+        }
+      ]
+    },
+    "fritekst": []
+  },
+  "programfag-kapittel": null,
+  "hovedomraade-kapittel": {
+    "overskrift": [
+      {
+        "spraak": "http://data.udir.no/kl06/nob",
+        "verdi": "Hovedområder"
+      }
+    ],
+    "innledning": [
+      {
+        "spraak": "http://data.udir.no/kl06/nob",
+        "verdi": "<p class=\"grep\">Faget er strukturert i hovedområder som det er formulert kompetansemål for. Hovedområdene utfyller hverandre og må ses i sammenheng.</p><p class=\"grep\">Faget er et fellesfag for alle utdanningsprogrammene i videregående opplæring. Opplæringen skal derfor gjøres mest mulig relevant for elevene ved å tilpasses til de ulike utdanningsprogrammene.</p><p class=\"grep\">Matematikk har kompetansemål etter 2., 4., 7. og 10. årstrinn i grunnskolen og etter Vg1 i studieforberedende og yrkesfaglige utdanningsprogram i videregående opplæring. </p><p class=\"grep\">Det er to varianter av læreplanen på Vg1. T-varianten er mer teoretisk orientert, mens P-varianten er mer praktisk orientert. Begge variantene gir i de studieforberedende utdanningsprogrammene generell studiekompetanse sammen med matematikk på Vg2, enten 2P eller programfag i matematikk (R1/S1).</p><p class=\"grep\">Elever i yrkesfaglige utdanningsprogram skal i Vg1 ha tre femdeler av læreplanen matematikk 1P eller 1T. Læreplanen viser kompetansemålene i matematikk i de yrkesfaglige utdanningsprogrammene i 1T-Y og 1P-Y.</p><p class=\"grep\"><b>Oversikt over hovedområ</b><b>dene:</b></p><table class=\"grep\"><tbody class=\"grep\"><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><b>Å</b><b>rstrinn</b></p></td><td class=\"grep\"><p class=\"grep\"><b>Hovedområ</b><b>de</b></p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">1.–4. </p></td><td class=\"grep\"><p class=\"grep\">Tall </p></td><td class=\"grep\"><p class=\"grep\">Geometri </p></td><td class=\"grep\"><p class=\"grep\">Måling </p></td><td class=\"grep\"><p class=\"grep\">Statistikk </p></td><td class=\"grep\"><p class=\"grep\" /></td><td class=\"grep\"><p class=\"grep\" /></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">5.–7. </p></td><td class=\"grep\"><p class=\"grep\">Tall og algebra </p></td><td class=\"grep\"><p class=\"grep\">Geometri </p></td><td class=\"grep\"><p class=\"grep\">Måling </p></td><td class=\"grep\"><p class=\"grep\">Statistikk og sannsynlighet </p></td><td class=\"grep\"><p class=\"grep\" /></td><td class=\"grep\"><p class=\"grep\" /></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">8.–10. </p></td><td class=\"grep\"><p class=\"grep\">Tall og algebra </p></td><td class=\"grep\"><p class=\"grep\">Geometri </p></td><td class=\"grep\"><p class=\"grep\">Måling </p></td><td class=\"grep\"><p class=\"grep\">Statistikk, sannsynlighet og kombinatorikk </p></td><td class=\"grep\"><p class=\"grep\">Funksjoner </p></td><td class=\"grep\"><p class=\"grep\" /></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">1T </p></td><td class=\"grep\"><p class=\"grep\">Tall og algebra </p></td><td class=\"grep\"><p class=\"grep\">Geometri </p></td><td class=\"grep\"><p class=\"grep\" /></td><td class=\"grep\"><p class=\"grep\">Sannsynlighet </p></td><td class=\"grep\"><p class=\"grep\">Funksjoner </p></td><td class=\"grep\"><p class=\"grep\" /></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">1P </p></td><td class=\"grep\"><p class=\"grep\">Tall og algebra </p></td><td class=\"grep\"><p class=\"grep\">Geometri </p></td><td class=\"grep\"><p class=\"grep\" /></td><td class=\"grep\"><p class=\"grep\">Sannsynlighet </p></td><td class=\"grep\"><p class=\"grep\">Funksjoner </p></td><td class=\"grep\"><p class=\"grep\">Økonomi</p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">1T-Y</p></td><td class=\"grep\"><p class=\"grep\">Tall og algebra</p></td><td class=\"grep\"><p class=\"grep\">Geometri</p></td><td class=\"grep\"><p class=\"grep\" /></td><td class=\"grep\"><p class=\"grep\" /></td><td class=\"grep\"><p class=\"grep\">Funksjoner</p></td><td class=\"grep\"><p class=\"grep\" /></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">1P-Y </p></td><td class=\"grep\"><p class=\"grep\">Tall og algebra </p></td><td class=\"grep\"><p class=\"grep\">Geometri </p></td><td class=\"grep\"><p class=\"grep\" /></td><td class=\"grep\"><p class=\"grep\" /></td><td class=\"grep\"><p class=\"grep\" /></td><td class=\"grep\"><p class=\"grep\">Økonomi</p></td></tr></tbody></table><p class=\"grep\"><span class=\"grep\" /></p>"
+      }
+    ],
+    "hovedomraader": [
+      {
+        "id": "uuid:2d6b2ca7-5923-4e5e-ab52-7afaedb6b10b",
+        "kode": "HO1435",
+        "uri": "http://psi.udir.no/kl06/HO1435",
+        "url-data": "http://data.udir.no/kl06/HO1435",
+        "tittel": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Tall og algebra "
+          }
+        ],
+        "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+        "rekkefoelge": 1,
+        "beskrivelse": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "<p class=\"grep\">Hovedområdet tall og algebra handler om å utvikle tallforståelse og innsikt i hvordan tall og tallbehandling inngår i systemer og mønster. Med tall kan man kvantifisere mengder og størrelser. Området tall omfatter både hele tall, brøk, desimaltall og prosent. Algebra i skolen generaliserer tallregning ved at bokstaver eller andre symboler representerer tall. Det gir anledning til å beskrive og analysere mønster og sammenhenger. Algebra benyttes også i forbindelse med hovedområdene geometri og funksjoner.</p>"
+          }
+        ],
+        "underliggende-hovedomraader": []
+      },
+      {
+        "id": "uuid:ca523dc7-b331-46b7-a7dc-9438f96b5dff",
+        "kode": "HO1436",
+        "uri": "http://psi.udir.no/kl06/HO1436",
+        "url-data": "http://data.udir.no/kl06/HO1436",
+        "tittel": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Geometri "
+          }
+        ],
+        "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+        "rekkefoelge": 2,
+        "beskrivelse": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "<p class=\"grep\">Geometri i skolen handler blant annet om å analysere egenskaper ved to- og tredimensjonale figurer og gjøre konstruksjoner og beregninger. Man studerer dynamiske prosesser som speiling, rotasjon og forskyvning. Hovedområdet omfatter også å beskrive plassering og forflytning i rutenett, kart og koordinatsystemer. </p>"
+          }
+        ],
+        "underliggende-hovedomraader": []
+      },
+      {
+        "id": "uuid:74acb893-875c-44fe-9d51-af921cbcfa63",
+        "kode": "HO1437",
+        "uri": "http://psi.udir.no/kl06/HO1437",
+        "url-data": "http://data.udir.no/kl06/HO1437",
+        "tittel": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Måling "
+          }
+        ],
+        "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+        "rekkefoelge": 3,
+        "beskrivelse": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "<p class=\"grep\">Måling vil si å sammenligne og oftest knytte en tallstørrelse til et objekt eller en mengde. Denne prosessen krever bruk av måleenheter og passende teknikker, måleredskaper og formler. Viktige deler av måleprosessen er å vurdere resultatet og drøfte måleusikkerheten.</p>"
+          }
+        ],
+        "underliggende-hovedomraader": []
+      },
+      {
+        "id": "uuid:3891a846-89af-4dd9-b5aa-b155373304f6",
+        "kode": "HO1438",
+        "uri": "http://psi.udir.no/kl06/HO1438",
+        "url-data": "http://data.udir.no/kl06/HO1438",
+        "tittel": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Statistikk, sannsynlighet og kombinatorikk "
+          }
+        ],
+        "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+        "rekkefoelge": 4,
+        "beskrivelse": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "<p class=\"grep\">Statistikk omfatter å planlegge, samle inn, organisere, analysere og presentere data. I analysen av data hører det med å beskrive generelle trekk ved datamaterialet. Å vurdere og se kritisk på konklusjoner og framstilling av data er en sentral del av denne prosessen. I sannsynlighetsregning tallfester tallfestes hvor stor sjanse det er for at en hendelse skal skje. I kombinatorikk arbeider man med systematiske måter å telle opp mulige utfall på for å kunne beregne sannsynlighet.</p>"
+          }
+        ],
+        "underliggende-hovedomraader": []
+      },
+      {
+        "id": "uuid:a28643a0-62e9-44bd-b2f8-a69b19678a47",
+        "kode": "HO1439",
+        "uri": "http://psi.udir.no/kl06/HO1439",
+        "url-data": "http://data.udir.no/kl06/HO1439",
+        "tittel": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Funksjoner "
+          }
+        ],
+        "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+        "rekkefoelge": 5,
+        "beskrivelse": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "<p class=\"grep\">En funksjon beskriver endring eller utvikling av en størrelse som er avhengig av en annen, på en entydig måte. Funksjoner kan uttrykkes på flere måter, for eksempel med formler, tabeller og grafer. Analyse av funksjoner går ut på å lete etter spesielle egenskaper, som hvor raskt en utvikling går, og når utviklingen får spesielle verdier.</p>"
+          }
+        ],
+        "underliggende-hovedomraader": []
+      },
+      {
+        "id": "uuid:550571d2-d643-444e-a221-e094738ca3f8",
+        "kode": "HO1440",
+        "uri": "http://psi.udir.no/kl06/HO1440",
+        "url-data": "http://data.udir.no/kl06/HO1440",
+        "tittel": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Økonomi"
+          }
+        ],
+        "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+        "rekkefoelge": 6,
+        "beskrivelse": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "<p class=\"grep\">Hovedområdet økonomi handler om beregninger og vurderinger som gjelder økonomiske forhold.</p>"
+          }
+        ],
+        "underliggende-hovedomraader": []
+      }
+    ],
+    "fritekst": []
+  },
+  "kompetansemaal-kapittel": {
+    "overskrift": [
+      {
+        "spraak": "http://data.udir.no/kl06/nob",
+        "verdi": "Kompetansemål"
+      }
+    ],
+    "innledning": [],
+    "kompetansemaalsett": [
+      {
+        "id": "uuid:c0896812-7523-4c16-b82f-5831f4bd09f2",
+        "kode": "KMS927",
+        "uri": "http://psi.udir.no/kl06/KMS927",
+        "url-data": "http://data.udir.no/kl06/KMS927",
+        "tittel": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Kompetansemål etter 2. årstrinn "
+          }
+        ],
+        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett",
+        "maal-for-kompetansemaalene-overskrift": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Mål for opplæringen er at eleven skal kunne"
+          }
+        ],
+        "rekkefoelge": 1,
+        "programfag": null,
+        "hovedomraader-i-kontekst-av-kompetansemaalsett": [
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Tall"
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Hovedområdet tall og algebra handler om å utvikle tallforståelse og innsikt i hvordan tall og tallbehandling inngår i systemer og mønster. Med tall kan man kvantifisere mengder og størrelser. Området tall omfatter både hele tall, brøk, desimaltall og prosent. Algebra i skolen generaliserer tallregning ved at bokstaver eller andre symboler representerer tall. Det gir anledning til å beskrive og analysere mønster og sammenhenger. Algebra benyttes også i forbindelse med hovedområdene geometri og funksjoner.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 1,
+            "kode": "HO1435",
+            "uri": "http://psi.udir.no/kl06/HO1435",
+            "url-data": "http://data.udir.no/kl06/HO1435"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Geometri "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Geometri i skolen handler blant annet om å analysere egenskaper ved to- og tredimensjonale figurer og gjøre konstruksjoner og beregninger. Man studerer dynamiske prosesser som speiling, rotasjon og forskyvning. Hovedområdet omfatter også å beskrive plassering og forflytning i rutenett, kart og koordinatsystemer. </p>"
+                }
+              ]
+            },
+            "rekkefoelge": 2,
+            "kode": "HO1436",
+            "uri": "http://psi.udir.no/kl06/HO1436",
+            "url-data": "http://data.udir.no/kl06/HO1436"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Måling "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Måling vil si å sammenligne og oftest knytte en tallstørrelse til et objekt eller en mengde. Denne prosessen krever bruk av måleenheter og passende teknikker, måleredskaper og formler. Viktige deler av måleprosessen er å vurdere resultatet og drøfte måleusikkerheten.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 3,
+            "kode": "HO1437",
+            "uri": "http://psi.udir.no/kl06/HO1437",
+            "url-data": "http://data.udir.no/kl06/HO1437"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Statistikk"
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Statistikk omfatter å planlegge, samle inn, organisere, analysere og presentere data. I analysen av data hører det med å beskrive generelle trekk ved datamaterialet. Å vurdere og se kritisk på konklusjoner og framstilling av data er en sentral del av denne prosessen. I sannsynlighetsregning tallfester tallfestes hvor stor sjanse det er for at en hendelse skal skje. I kombinatorikk arbeider man med systematiske måter å telle opp mulige utfall på for å kunne beregne sannsynlighet.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 4,
+            "kode": "HO1438",
+            "uri": "http://psi.udir.no/kl06/HO1438",
+            "url-data": "http://data.udir.no/kl06/HO1438"
+          }
+        ],
+        "kompetansemaal": [
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15163",
+            "uri": "http://psi.udir.no/kl06/K15163",
+            "url-data": "http://data.udir.no/kl06/K15163",
+            "tittel": "telje til 100, dele opp og byggje mengder opp til 10, setje saman og dele opp tiargrupper opp til 100 og dele tosifra tal i tiarar og einarar "
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K8891",
+            "uri": "http://psi.udir.no/kl06/K8891",
+            "url-data": "http://data.udir.no/kl06/K8891",
+            "tittel": "bruke tallinja til berekningar og til å vise talstorleikar"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K8892",
+            "uri": "http://psi.udir.no/kl06/K8892",
+            "url-data": "http://data.udir.no/kl06/K8892",
+            "tittel": "gjere overslag over mengder, telje opp, samanlikne tal og uttrykkje talstorleikar på varierte måtar"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15164",
+            "uri": "http://psi.udir.no/kl06/K15164",
+            "url-data": "http://data.udir.no/kl06/K15164",
+            "tittel": "utvikle, bruke og samtale om varierte reknestrategiar for addisjon og subtraksjon av tosifra tal og vurdere kor rimelege svara er "
+          },
+          {
+            "rekkefoelge": 5,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K8894",
+            "uri": "http://psi.udir.no/kl06/K8894",
+            "url-data": "http://data.udir.no/kl06/K8894",
+            "tittel": "doble og halvere"
+          },
+          {
+            "rekkefoelge": 6,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K8895",
+            "uri": "http://psi.udir.no/kl06/K8895",
+            "url-data": "http://data.udir.no/kl06/K8895",
+            "tittel": "kjenne att, samtale om og vidareføre strukturar i enkle talmønster"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K8896",
+            "uri": "http://psi.udir.no/kl06/K8896",
+            "url-data": "http://data.udir.no/kl06/K8896",
+            "tittel": "kjenne att og beskrive trekk ved enkle to- og tredimensjonale figurar i samband med hjørne, kantar og flater og sortere og setje namn på figurane etter desse trekka"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15165",
+            "uri": "http://psi.udir.no/kl06/K15165",
+            "url-data": "http://data.udir.no/kl06/K15165",
+            "tittel": "kjenne att, bruke og samtale om spegelsymmetri i praktiske situasjonar"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15166",
+            "uri": "http://psi.udir.no/kl06/K15166",
+            "url-data": "http://data.udir.no/kl06/K15166",
+            "tittel": "lage og utforske geometriske mønster, både med og utan digitale verktøy, og beskrive dei munnleg"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1437",
+              "uri": "http://psi.udir.no/kl06/HO1437",
+              "url-data": "http://data.udir.no/kl06/HO1437"
+            },
+            "kode": "K15167",
+            "uri": "http://psi.udir.no/kl06/K15167",
+            "url-data": "http://data.udir.no/kl06/K15167",
+            "tittel": "måle og samanlikne storleikar som gjeld lengd og areal, ved hjelp av ikkje-standardiserte og standardiserte måleiningar, beskrive korleis og samtale om resultata"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1437",
+              "uri": "http://psi.udir.no/kl06/HO1437",
+              "url-data": "http://data.udir.no/kl06/HO1437"
+            },
+            "kode": "K8900",
+            "uri": "http://psi.udir.no/kl06/K8900",
+            "url-data": "http://data.udir.no/kl06/K8900",
+            "tittel": "nemne dagar, månader og enkle klokkeslett"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1437",
+              "uri": "http://psi.udir.no/kl06/HO1437",
+              "url-data": "http://data.udir.no/kl06/HO1437"
+            },
+            "kode": "K15168",
+            "uri": "http://psi.udir.no/kl06/K15168",
+            "url-data": "http://data.udir.no/kl06/K15168",
+            "tittel": "kjenne att norske myntar og setlar opp til 100 og bruke dei i kjøp og sal"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1438",
+              "uri": "http://psi.udir.no/kl06/HO1438",
+              "url-data": "http://data.udir.no/kl06/HO1438"
+            },
+            "kode": "K15169",
+            "uri": "http://psi.udir.no/kl06/K15169",
+            "url-data": "http://data.udir.no/kl06/K15169",
+            "tittel": "samle, sortere, notere og illustrere data med teljestrekar, tabellar og søylediagram og samtale om prosessen og kva illustrasjonane fortel om datamaterialet"
+          }
+        ],
+        "etter-fag": [
+          {
+            "gyldighet": {
+              "gyldig-fra": "2015-08-01T00:00:00",
+              "gyldig-til": null
+            },
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "kode": "MAT1Z25",
+            "uri": "http://psi.udir.no/kl06/MAT1Z25",
+            "url-data": "http://data.udir.no/kl06/MAT1Z25",
+            "tittel": "Matematikk 1. årstrinn"
+          },
+          {
+            "gyldighet": {
+              "gyldig-fra": "2015-08-01T00:00:00",
+              "gyldig-til": null
+            },
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "kode": "MAT1Z26",
+            "uri": "http://psi.udir.no/kl06/MAT1Z26",
+            "url-data": "http://data.udir.no/kl06/MAT1Z26",
+            "tittel": "Matematikk 2. årstrinn"
+          },
+          {
+            "gyldighet": {
+              "gyldig-fra": "2013-08-01T00:00:00",
+              "gyldig-til": "2015-07-31T00:00:00"
+            },
+            "status": "http://data.udir.no/kl06/status_utgaatt",
+            "kode": "MAT1Z17",
+            "uri": "http://psi.udir.no/kl06/MAT1Z17",
+            "url-data": "http://data.udir.no/kl06/MAT1Z17",
+            "tittel": "Matematikk 1.-2. årstrinn"
+          }
+        ],
+        "etter-aarstrinn": [
+          {
+            "kode": "aarstrinn2",
+            "uri": "http://psi.udir.no/kl06/aarstrinn2",
+            "url-data": "http://data.udir.no/kl06/aarstrinn2",
+            "tittel": "Andre årstrinn"
+          }
+        ],
+        "benyttes-paa-aarstrinn": [
+          {
+            "kode": "aarstrinn1",
+            "uri": "http://psi.udir.no/kl06/aarstrinn1",
+            "url-data": "http://data.udir.no/kl06/aarstrinn1",
+            "tittel": "Første årstrinn"
+          },
+          {
+            "kode": "aarstrinn2",
+            "uri": "http://psi.udir.no/kl06/aarstrinn2",
+            "url-data": "http://data.udir.no/kl06/aarstrinn2",
+            "tittel": "Andre årstrinn"
+          }
+        ]
+      },
+      {
+        "id": "uuid:28233666-d1c5-4999-a1e3-826677a7c7da",
+        "kode": "KMS928",
+        "uri": "http://psi.udir.no/kl06/KMS928",
+        "url-data": "http://data.udir.no/kl06/KMS928",
+        "tittel": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Kompetansemål etter 4. årstrinn "
+          }
+        ],
+        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett",
+        "maal-for-kompetansemaalene-overskrift": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Mål for opplæringen er at eleven skal kunne"
+          }
+        ],
+        "rekkefoelge": 2,
+        "programfag": null,
+        "hovedomraader-i-kontekst-av-kompetansemaalsett": [
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Tall"
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Hovedområdet tall og algebra handler om å utvikle tallforståelse og innsikt i hvordan tall og tallbehandling inngår i systemer og mønster. Med tall kan man kvantifisere mengder og størrelser. Området tall omfatter både hele tall, brøk, desimaltall og prosent. Algebra i skolen generaliserer tallregning ved at bokstaver eller andre symboler representerer tall. Det gir anledning til å beskrive og analysere mønster og sammenhenger. Algebra benyttes også i forbindelse med hovedområdene geometri og funksjoner.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 1,
+            "kode": "HO1435",
+            "uri": "http://psi.udir.no/kl06/HO1435",
+            "url-data": "http://data.udir.no/kl06/HO1435"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Geometri "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Geometri i skolen handler blant annet om å analysere egenskaper ved to- og tredimensjonale figurer og gjøre konstruksjoner og beregninger. Man studerer dynamiske prosesser som speiling, rotasjon og forskyvning. Hovedområdet omfatter også å beskrive plassering og forflytning i rutenett, kart og koordinatsystemer. </p>"
+                }
+              ]
+            },
+            "rekkefoelge": 2,
+            "kode": "HO1436",
+            "uri": "http://psi.udir.no/kl06/HO1436",
+            "url-data": "http://data.udir.no/kl06/HO1436"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Måling "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Måling vil si å sammenligne og oftest knytte en tallstørrelse til et objekt eller en mengde. Denne prosessen krever bruk av måleenheter og passende teknikker, måleredskaper og formler. Viktige deler av måleprosessen er å vurdere resultatet og drøfte måleusikkerheten.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 3,
+            "kode": "HO1437",
+            "uri": "http://psi.udir.no/kl06/HO1437",
+            "url-data": "http://data.udir.no/kl06/HO1437"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Statistikk"
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Statistikk omfatter å planlegge, samle inn, organisere, analysere og presentere data. I analysen av data hører det med å beskrive generelle trekk ved datamaterialet. Å vurdere og se kritisk på konklusjoner og framstilling av data er en sentral del av denne prosessen. I sannsynlighetsregning tallfester tallfestes hvor stor sjanse det er for at en hendelse skal skje. I kombinatorikk arbeider man med systematiske måter å telle opp mulige utfall på for å kunne beregne sannsynlighet.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 4,
+            "kode": "HO1438",
+            "uri": "http://psi.udir.no/kl06/HO1438",
+            "url-data": "http://data.udir.no/kl06/HO1438"
+          }
+        ],
+        "kompetansemaal": [
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15170",
+            "uri": "http://psi.udir.no/kl06/K15170",
+            "url-data": "http://data.udir.no/kl06/K15170",
+            "tittel": "beskrive og bruke plassverdisystemet for dei heile tala, bruke positive og negative heile tal, enkle brøkar og desimaltal i praktiske samanhengar og uttrykkje talstorleikar på varierte måtar"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15171",
+            "uri": "http://psi.udir.no/kl06/K15171",
+            "url-data": "http://data.udir.no/kl06/K15171",
+            "tittel": "gjere overslag over og finne tal ved hjelp av hovudrekning, teljemateriell og skriftlege notat, gjennomføre overslagsrekning og vurdere svar"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15172",
+            "uri": "http://psi.udir.no/kl06/K15172",
+            "url-data": "http://data.udir.no/kl06/K15172",
+            "tittel": "utvikle, bruke og samtale om ulike reknemetodar for addisjon og subtraksjon av fleirsifra tal både i hovudet og på papiret"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15173",
+            "uri": "http://psi.udir.no/kl06/K15173",
+            "url-data": "http://data.udir.no/kl06/K15173",
+            "tittel": "utvikle og bruke varierte metodar for multiplikasjon og divisjon, bruke dei i praktiske situasjonar og bruke den vesle multiplikasjonstabellen i hovudrekning og i oppgåveløysing"
+          },
+          {
+            "rekkefoelge": 5,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15174",
+            "uri": "http://psi.udir.no/kl06/K15174",
+            "url-data": "http://data.udir.no/kl06/K15174",
+            "tittel": "finne informasjon i tekstar eller praktiske samanhengar, velje rekneart og grunngje valet, bruke tabellkunnskap og utnytte samanhengar mellom rekneartane, vurdere resultatet og presentere løysinga"
+          },
+          {
+            "rekkefoelge": 6,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15175",
+            "uri": "http://psi.udir.no/kl06/K15175",
+            "url-data": "http://data.udir.no/kl06/K15175",
+            "tittel": "kjenne att, eksperimentere med, beskrive og vidareføre strukturar i talmønster"
+          },
+          {
+            "rekkefoelge": 7,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15176",
+            "uri": "http://psi.udir.no/kl06/K15176",
+            "url-data": "http://data.udir.no/kl06/K15176",
+            "tittel": "bruke matematiske symbol og uttrykksmåtar for å uttrykkje matematiske samanhengar i oppgåveløysing"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15177",
+            "uri": "http://psi.udir.no/kl06/K15177",
+            "url-data": "http://data.udir.no/kl06/K15177",
+            "tittel": "kjenne att, beskrive trekk ved og sortere sirklar, mangekantar, kuler, sylindrar og polyeder"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15178",
+            "uri": "http://psi.udir.no/kl06/K15178",
+            "url-data": "http://data.udir.no/kl06/K15178",
+            "tittel": "teikne, byggje, utforske og beskrive geometriske figurar og modellar i praktiske samanhengar, medrekna teknologi og design"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15179",
+            "uri": "http://psi.udir.no/kl06/K15179",
+            "url-data": "http://data.udir.no/kl06/K15179",
+            "tittel": "kjenne att, bruke og beskrive spegelsymmetri og parallellforskyving i konkrete situasjonar"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K8911",
+            "uri": "http://psi.udir.no/kl06/K8911",
+            "url-data": "http://data.udir.no/kl06/K8911",
+            "tittel": "lage og utforske geometriske mønster og beskrive dei munnleg"
+          },
+          {
+            "rekkefoelge": 5,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15180",
+            "uri": "http://psi.udir.no/kl06/K15180",
+            "url-data": "http://data.udir.no/kl06/K15180",
+            "tittel": "lese av, plassere og beskrive posisjonar i rutenett, på kart og i koordinatsystem, både med og utan digitale verktøy"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1437",
+              "uri": "http://psi.udir.no/kl06/HO1437",
+              "url-data": "http://data.udir.no/kl06/HO1437"
+            },
+            "kode": "K15181",
+            "uri": "http://psi.udir.no/kl06/K15181",
+            "url-data": "http://data.udir.no/kl06/K15181",
+            "tittel": "gjere overslag over og måle lengd, areal, volum, masse, temperatur, tid og vinklar, samtale om resultata og vurdere om dei er rimelege"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1437",
+              "uri": "http://psi.udir.no/kl06/HO1437",
+              "url-data": "http://data.udir.no/kl06/HO1437"
+            },
+            "kode": "K15182",
+            "uri": "http://psi.udir.no/kl06/K15182",
+            "url-data": "http://data.udir.no/kl06/K15182",
+            "tittel": "bruke ikkje-standardiserte måleiningar og forklare formålet med å standardisere måleiningar og bruke og gjere om mellom vanlege måleiningar"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1437",
+              "uri": "http://psi.udir.no/kl06/HO1437",
+              "url-data": "http://data.udir.no/kl06/HO1437"
+            },
+            "kode": "K15183",
+            "uri": "http://psi.udir.no/kl06/K15183",
+            "url-data": "http://data.udir.no/kl06/K15183",
+            "tittel": "samanlikne storleikar ved hjelp av høvelege målereiskapar og enkel berekning, presentere resultata og vurdere om dei er rimelege"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1437",
+              "uri": "http://psi.udir.no/kl06/HO1437",
+              "url-data": "http://data.udir.no/kl06/HO1437"
+            },
+            "kode": "K8916",
+            "uri": "http://psi.udir.no/kl06/K8916",
+            "url-data": "http://data.udir.no/kl06/K8916",
+            "tittel": "løyse praktiske oppgåver som gjeld kjøp og sal"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1438",
+              "uri": "http://psi.udir.no/kl06/HO1438",
+              "url-data": "http://data.udir.no/kl06/HO1438"
+            },
+            "kode": "K15184",
+            "uri": "http://psi.udir.no/kl06/K15184",
+            "url-data": "http://data.udir.no/kl06/K15184",
+            "tittel": "samle, sortere, notere og illustrere data på formålstenlege måtar med teljestrekar, tabellar og søylediagram, med og utan digitale verktøy, og samtale om prosess og framstilling"
+          }
+        ],
+        "etter-fag": [
+          {
+            "gyldighet": {
+              "gyldig-fra": "2015-08-01T00:00:00",
+              "gyldig-til": null
+            },
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "kode": "MAT1Z27",
+            "uri": "http://psi.udir.no/kl06/MAT1Z27",
+            "url-data": "http://data.udir.no/kl06/MAT1Z27",
+            "tittel": "Matematikk 3. årstrinn"
+          },
+          {
+            "gyldighet": {
+              "gyldig-fra": "2013-08-01T00:00:00",
+              "gyldig-til": "2015-07-31T00:00:00"
+            },
+            "status": "http://data.udir.no/kl06/status_utgaatt",
+            "kode": "MAT1Z18",
+            "uri": "http://psi.udir.no/kl06/MAT1Z18",
+            "url-data": "http://data.udir.no/kl06/MAT1Z18",
+            "tittel": "Matematikk 3.-4. årstrinn"
+          },
+          {
+            "gyldighet": {
+              "gyldig-fra": "2015-08-01T00:00:00",
+              "gyldig-til": null
+            },
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "kode": "MAT1Z28",
+            "uri": "http://psi.udir.no/kl06/MAT1Z28",
+            "url-data": "http://data.udir.no/kl06/MAT1Z28",
+            "tittel": "Matematikk 4. årstrinn"
+          }
+        ],
+        "etter-aarstrinn": [
+          {
+            "kode": "aarstrinn4",
+            "uri": "http://psi.udir.no/kl06/aarstrinn4",
+            "url-data": "http://data.udir.no/kl06/aarstrinn4",
+            "tittel": "Fjerde årstrinn"
+          }
+        ],
+        "benyttes-paa-aarstrinn": [
+          {
+            "kode": "aarstrinn3",
+            "uri": "http://psi.udir.no/kl06/aarstrinn3",
+            "url-data": "http://data.udir.no/kl06/aarstrinn3",
+            "tittel": "Tredje årstrinn"
+          },
+          {
+            "kode": "aarstrinn4",
+            "uri": "http://psi.udir.no/kl06/aarstrinn4",
+            "url-data": "http://data.udir.no/kl06/aarstrinn4",
+            "tittel": "Fjerde årstrinn"
+          }
+        ]
+      },
+      {
+        "id": "uuid:702dce7e-0adb-4040-9bc7-61030bfa5180",
+        "kode": "KMS929",
+        "uri": "http://psi.udir.no/kl06/KMS929",
+        "url-data": "http://data.udir.no/kl06/KMS929",
+        "tittel": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Kompetansemål etter 7. årstrinn"
+          }
+        ],
+        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett",
+        "maal-for-kompetansemaalene-overskrift": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Mål for opplæringen er at eleven skal kunne"
+          }
+        ],
+        "rekkefoelge": 3,
+        "programfag": null,
+        "hovedomraader-i-kontekst-av-kompetansemaalsett": [
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Tall og algebra "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Hovedområdet tall og algebra handler om å utvikle tallforståelse og innsikt i hvordan tall og tallbehandling inngår i systemer og mønster. Med tall kan man kvantifisere mengder og størrelser. Området tall omfatter både hele tall, brøk, desimaltall og prosent. Algebra i skolen generaliserer tallregning ved at bokstaver eller andre symboler representerer tall. Det gir anledning til å beskrive og analysere mønster og sammenhenger. Algebra benyttes også i forbindelse med hovedområdene geometri og funksjoner.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 1,
+            "kode": "HO1435",
+            "uri": "http://psi.udir.no/kl06/HO1435",
+            "url-data": "http://data.udir.no/kl06/HO1435"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Geometri "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Geometri i skolen handler blant annet om å analysere egenskaper ved to- og tredimensjonale figurer og gjøre konstruksjoner og beregninger. Man studerer dynamiske prosesser som speiling, rotasjon og forskyvning. Hovedområdet omfatter også å beskrive plassering og forflytning i rutenett, kart og koordinatsystemer. </p>"
+                }
+              ]
+            },
+            "rekkefoelge": 2,
+            "kode": "HO1436",
+            "uri": "http://psi.udir.no/kl06/HO1436",
+            "url-data": "http://data.udir.no/kl06/HO1436"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Måling "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Måling vil si å sammenligne og oftest knytte en tallstørrelse til et objekt eller en mengde. Denne prosessen krever bruk av måleenheter og passende teknikker, måleredskaper og formler. Viktige deler av måleprosessen er å vurdere resultatet og drøfte måleusikkerheten.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 3,
+            "kode": "HO1437",
+            "uri": "http://psi.udir.no/kl06/HO1437",
+            "url-data": "http://data.udir.no/kl06/HO1437"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Statistikk og sannsynlighet"
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Statistikk omfatter å planlegge, samle inn, organisere, analysere og presentere data. I analysen av data hører det med å beskrive generelle trekk ved datamaterialet. Å vurdere og se kritisk på konklusjoner og framstilling av data er en sentral del av denne prosessen. I sannsynlighetsregning tallfester tallfestes hvor stor sjanse det er for at en hendelse skal skje. I kombinatorikk arbeider man med systematiske måter å telle opp mulige utfall på for å kunne beregne sannsynlighet.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 4,
+            "kode": "HO1438",
+            "uri": "http://psi.udir.no/kl06/HO1438",
+            "url-data": "http://data.udir.no/kl06/HO1438"
+          }
+        ],
+        "kompetansemaal": [
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15185",
+            "uri": "http://psi.udir.no/kl06/K15185",
+            "url-data": "http://data.udir.no/kl06/K15185",
+            "tittel": "beskrive og bruke plassverdisystemet for desimaltal, rekne med positive og negative heile tal, desimaltal, brøkar og prosent og plassere dei ulike storleikane på tallina"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K8919",
+            "uri": "http://psi.udir.no/kl06/K8919",
+            "url-data": "http://data.udir.no/kl06/K8919",
+            "tittel": "finne samnemnar (bm.: fellesnevner) og utføre addisjon, subtraksjon og multiplikasjon av brøkar"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15186",
+            "uri": "http://psi.udir.no/kl06/K15186",
+            "url-data": "http://data.udir.no/kl06/K15186",
+            "tittel": "utvikle, bruke og diskutere metodar for hovudrekning, overslagsrekning og skriftleg rekning og bruke digitale verktøy i berekningar"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15187",
+            "uri": "http://psi.udir.no/kl06/K15187",
+            "url-data": "http://data.udir.no/kl06/K15187",
+            "tittel": "beskrive referansesystemet og notasjonen som blir nytta for formlar i eit rekneark, og bruke rekneark til å utføre og presentere berekningar"
+          },
+          {
+            "rekkefoelge": 5,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15188",
+            "uri": "http://psi.udir.no/kl06/K15188",
+            "url-data": "http://data.udir.no/kl06/K15188",
+            "tittel": "finne informasjon i tekstar eller praktiske samanhengar, stille opp og forklare berekningar og framgangsmåtar, vurdere resultatet og presentere og diskutere løysinga"
+          },
+          {
+            "rekkefoelge": 6,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15189",
+            "uri": "http://psi.udir.no/kl06/K15189",
+            "url-data": "http://data.udir.no/kl06/K15189",
+            "tittel": "utforske og beskrive strukturar og forandringar i geometriske mønster og talmønster med figurar, ord og formlar"
+          },
+          {
+            "rekkefoelge": 7,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15190",
+            "uri": "http://psi.udir.no/kl06/K15190",
+            "url-data": "http://data.udir.no/kl06/K15190",
+            "tittel": "stille opp og løyse enkle likningar og løyse opp og rekne med parentesar i addisjon, subtraksjon og multiplikasjon av tal"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15191",
+            "uri": "http://psi.udir.no/kl06/K15191",
+            "url-data": "http://data.udir.no/kl06/K15191",
+            "tittel": "analysere eigenskapar ved to- og tredimensjonale figurar og beskrive fysiske gjenstandar innanfor daglegliv og teknologi ved hjelp av geometriske omgrep"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15192",
+            "uri": "http://psi.udir.no/kl06/K15192",
+            "url-data": "http://data.udir.no/kl06/K15192",
+            "tittel": "byggje tredimensjonale modellar, teikne perspektiv med eitt forsvinningspunkt og diskutere prosessane og produkta"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K8926",
+            "uri": "http://psi.udir.no/kl06/K8926",
+            "url-data": "http://data.udir.no/kl06/K8926",
+            "tittel": "beskrive og gjennomføre spegling, rotasjon og parallellforskyving"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15266",
+            "uri": "http://psi.udir.no/kl06/K15266",
+            "url-data": "http://data.udir.no/kl06/K15266",
+            "tittel": "beskrive plassering og flytting i rutenett, på kart og i koordinatsystem, med og utan digitale hjelpemiddel, og bruke koordinatar til å berekne avstandar parallelt med aksane i eit koordinatsystem"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1437",
+              "uri": "http://psi.udir.no/kl06/HO1437",
+              "url-data": "http://data.udir.no/kl06/HO1437"
+            },
+            "kode": "K8929",
+            "uri": "http://psi.udir.no/kl06/K8929",
+            "url-data": "http://data.udir.no/kl06/K8929",
+            "tittel": "velje høvelege målereiskapar og gjere praktiske målingar i samband med daglegliv og teknologi og vurdere resultata ut frå presisjon og måleusikkerheit"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1437",
+              "uri": "http://psi.udir.no/kl06/HO1437",
+              "url-data": "http://data.udir.no/kl06/HO1437"
+            },
+            "kode": "K15193",
+            "uri": "http://psi.udir.no/kl06/K15193",
+            "url-data": "http://data.udir.no/kl06/K15193",
+            "tittel": "gjere overslag over og måle storleikar for lengd, areal, masse, volum, vinkel og tid og bruke tidspunkt og tidsintervall i enkle berekningar, diskutere resultata og vurdere kor rimelege dei er"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1437",
+              "uri": "http://psi.udir.no/kl06/HO1437",
+              "url-data": "http://data.udir.no/kl06/HO1437"
+            },
+            "kode": "K8931",
+            "uri": "http://psi.udir.no/kl06/K8931",
+            "url-data": "http://data.udir.no/kl06/K8931",
+            "tittel": "velje høvelege måleiningar og rekne om mellom ulike måleiningar"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1437",
+              "uri": "http://psi.udir.no/kl06/HO1437",
+              "url-data": "http://data.udir.no/kl06/HO1437"
+            },
+            "kode": "K15194",
+            "uri": "http://psi.udir.no/kl06/K15194",
+            "url-data": "http://data.udir.no/kl06/K15194",
+            "tittel": "forklare oppbygginga av mål for lengd, areal og volum og berekne omkrins, areal, overflate og volum av to- og tredimensjonale figurar"
+          },
+          {
+            "rekkefoelge": 5,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1437",
+              "uri": "http://psi.udir.no/kl06/HO1437",
+              "url-data": "http://data.udir.no/kl06/HO1437"
+            },
+            "kode": "K15195",
+            "uri": "http://psi.udir.no/kl06/K15195",
+            "url-data": "http://data.udir.no/kl06/K15195",
+            "tittel": "bruke målestokk til å berekne avstandar og lage og samtale om kart og arbeidsteikningar, med og utan digitale verktøy"
+          },
+          {
+            "rekkefoelge": 6,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1437",
+              "uri": "http://psi.udir.no/kl06/HO1437",
+              "url-data": "http://data.udir.no/kl06/HO1437"
+            },
+            "kode": "K8934",
+            "uri": "http://psi.udir.no/kl06/K8934",
+            "url-data": "http://data.udir.no/kl06/K8934",
+            "tittel": "bruke forhold i praktiske samanhengar, rekne med fart og rekne om mellom valutaer"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1438",
+              "uri": "http://psi.udir.no/kl06/HO1438",
+              "url-data": "http://data.udir.no/kl06/HO1438"
+            },
+            "kode": "K8935",
+            "uri": "http://psi.udir.no/kl06/K8935",
+            "url-data": "http://data.udir.no/kl06/K8935",
+            "tittel": "planleggje og samle inn data i samband med observasjonar, spørjeundersøkingar og eksperiment"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1438",
+              "uri": "http://psi.udir.no/kl06/HO1438",
+              "url-data": "http://data.udir.no/kl06/HO1438"
+            },
+            "kode": "K15196",
+            "uri": "http://psi.udir.no/kl06/K15196",
+            "url-data": "http://data.udir.no/kl06/K15196",
+            "tittel": "representere data i tabellar og diagram som er framstilte med og utan digitale verktøy, lese og tolke framstillingane og vurdere kor nyttige dei er"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1438",
+              "uri": "http://psi.udir.no/kl06/HO1438",
+              "url-data": "http://data.udir.no/kl06/HO1438"
+            },
+            "kode": "K15197",
+            "uri": "http://psi.udir.no/kl06/K15197",
+            "url-data": "http://data.udir.no/kl06/K15197",
+            "tittel": "finne median, typetal og gjennomsnitt i enkle datasett og vurdere dei ulike sentralmåla i forhold til kvarandre"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1438",
+              "uri": "http://psi.udir.no/kl06/HO1438",
+              "url-data": "http://data.udir.no/kl06/HO1438"
+            },
+            "kode": "K15198",
+            "uri": "http://psi.udir.no/kl06/K15198",
+            "url-data": "http://data.udir.no/kl06/K15198",
+            "tittel": "vurdere og samtale om sjansar i daglegdagse samanhengar, spel og eksperiment og berekne sannsyn i enkle situasjonar"
+          }
+        ],
+        "etter-fag": [
+          {
+            "gyldighet": {
+              "gyldig-fra": "2013-08-01T00:00:00",
+              "gyldig-til": "2015-07-31T00:00:00"
+            },
+            "status": "http://data.udir.no/kl06/status_utgaatt",
+            "kode": "MAT1Z19",
+            "uri": "http://psi.udir.no/kl06/MAT1Z19",
+            "url-data": "http://data.udir.no/kl06/MAT1Z19",
+            "tittel": "Matematikk 5.-7. årstrinn"
+          },
+          {
+            "gyldighet": {
+              "gyldig-fra": "2015-08-01T00:00:00",
+              "gyldig-til": null
+            },
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "kode": "MAT1Z29",
+            "uri": "http://psi.udir.no/kl06/MAT1Z29",
+            "url-data": "http://data.udir.no/kl06/MAT1Z29",
+            "tittel": "Matematikk 5. årstrinn"
+          },
+          {
+            "gyldighet": {
+              "gyldig-fra": "2015-08-01T00:00:00",
+              "gyldig-til": null
+            },
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "kode": "MAT1Z30",
+            "uri": "http://psi.udir.no/kl06/MAT1Z30",
+            "url-data": "http://data.udir.no/kl06/MAT1Z30",
+            "tittel": "Matematikk 6. årstrinn"
+          },
+          {
+            "gyldighet": {
+              "gyldig-fra": "2015-08-01T00:00:00",
+              "gyldig-til": null
+            },
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "kode": "MAT1Z31",
+            "uri": "http://psi.udir.no/kl06/MAT1Z31",
+            "url-data": "http://data.udir.no/kl06/MAT1Z31",
+            "tittel": "Matematikk 7. årstrinn"
+          }
+        ],
+        "etter-aarstrinn": [
+          {
+            "kode": "aarstrinn7",
+            "uri": "http://psi.udir.no/kl06/aarstrinn7",
+            "url-data": "http://data.udir.no/kl06/aarstrinn7",
+            "tittel": "Syvende årstrinn"
+          }
+        ],
+        "benyttes-paa-aarstrinn": [
+          {
+            "kode": "aarstrinn5",
+            "uri": "http://psi.udir.no/kl06/aarstrinn5",
+            "url-data": "http://data.udir.no/kl06/aarstrinn5",
+            "tittel": "Femte årstrinn"
+          },
+          {
+            "kode": "aarstrinn6",
+            "uri": "http://psi.udir.no/kl06/aarstrinn6",
+            "url-data": "http://data.udir.no/kl06/aarstrinn6",
+            "tittel": "Sjette årstrinn"
+          },
+          {
+            "kode": "aarstrinn7",
+            "uri": "http://psi.udir.no/kl06/aarstrinn7",
+            "url-data": "http://data.udir.no/kl06/aarstrinn7",
+            "tittel": "Syvende årstrinn"
+          }
+        ]
+      },
+      {
+        "id": "uuid:c06ebda3-b842-4599-b8c1-905df6211246",
+        "kode": "KMS930",
+        "uri": "http://psi.udir.no/kl06/KMS930",
+        "url-data": "http://data.udir.no/kl06/KMS930",
+        "tittel": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Kompetansemål etter 10. årstrinn"
+          }
+        ],
+        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett",
+        "maal-for-kompetansemaalene-overskrift": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Mål for opplæringen er at eleven skal kunne"
+          }
+        ],
+        "rekkefoelge": 4,
+        "programfag": null,
+        "hovedomraader-i-kontekst-av-kompetansemaalsett": [
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Tall og algebra "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Hovedområdet tall og algebra handler om å utvikle tallforståelse og innsikt i hvordan tall og tallbehandling inngår i systemer og mønster. Med tall kan man kvantifisere mengder og størrelser. Området tall omfatter både hele tall, brøk, desimaltall og prosent. Algebra i skolen generaliserer tallregning ved at bokstaver eller andre symboler representerer tall. Det gir anledning til å beskrive og analysere mønster og sammenhenger. Algebra benyttes også i forbindelse med hovedområdene geometri og funksjoner.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 1,
+            "kode": "HO1435",
+            "uri": "http://psi.udir.no/kl06/HO1435",
+            "url-data": "http://data.udir.no/kl06/HO1435"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Geometri "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Geometri i skolen handler blant annet om å analysere egenskaper ved to- og tredimensjonale figurer og gjøre konstruksjoner og beregninger. Man studerer dynamiske prosesser som speiling, rotasjon og forskyvning. Hovedområdet omfatter også å beskrive plassering og forflytning i rutenett, kart og koordinatsystemer. </p>"
+                }
+              ]
+            },
+            "rekkefoelge": 2,
+            "kode": "HO1436",
+            "uri": "http://psi.udir.no/kl06/HO1436",
+            "url-data": "http://data.udir.no/kl06/HO1436"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Måling "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Måling vil si å sammenligne og oftest knytte en tallstørrelse til et objekt eller en mengde. Denne prosessen krever bruk av måleenheter og passende teknikker, måleredskaper og formler. Viktige deler av måleprosessen er å vurdere resultatet og drøfte måleusikkerheten.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 3,
+            "kode": "HO1437",
+            "uri": "http://psi.udir.no/kl06/HO1437",
+            "url-data": "http://data.udir.no/kl06/HO1437"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Statistikk, sannsynlighet og kombinatorikk "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Statistikk omfatter å planlegge, samle inn, organisere, analysere og presentere data. I analysen av data hører det med å beskrive generelle trekk ved datamaterialet. Å vurdere og se kritisk på konklusjoner og framstilling av data er en sentral del av denne prosessen. I sannsynlighetsregning tallfester tallfestes hvor stor sjanse det er for at en hendelse skal skje. I kombinatorikk arbeider man med systematiske måter å telle opp mulige utfall på for å kunne beregne sannsynlighet.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 4,
+            "kode": "HO1438",
+            "uri": "http://psi.udir.no/kl06/HO1438",
+            "url-data": "http://data.udir.no/kl06/HO1438"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Funksjoner "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">En funksjon beskriver endring eller utvikling av en størrelse som er avhengig av en annen, på en entydig måte. Funksjoner kan uttrykkes på flere måter, for eksempel med formler, tabeller og grafer. Analyse av funksjoner går ut på å lete etter spesielle egenskaper, som hvor raskt en utvikling går, og når utviklingen får spesielle verdier.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 5,
+            "kode": "HO1439",
+            "uri": "http://psi.udir.no/kl06/HO1439",
+            "url-data": "http://data.udir.no/kl06/HO1439"
+          }
+        ],
+        "kompetansemaal": [
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15199",
+            "uri": "http://psi.udir.no/kl06/K15199",
+            "url-data": "http://data.udir.no/kl06/K15199",
+            "tittel": "samanlikne og rekne om mellom heile tal, desimaltal, brøkar, prosent, promille og tal på standardform, uttrykkje slike tal på varierte måtar og vurdere i kva for situasjonar ulike representasjonar er formålstenlege"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K8940",
+            "uri": "http://psi.udir.no/kl06/K8940",
+            "url-data": "http://data.udir.no/kl06/K8940",
+            "tittel": "rekne med brøk, utføre divisjon av brøkar og forenkle brøkuttrykk"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K8941",
+            "uri": "http://psi.udir.no/kl06/K8941",
+            "url-data": "http://data.udir.no/kl06/K8941",
+            "tittel": "bruke faktorar, potensar, kvadratrøter og primtal i berekningar"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15200",
+            "uri": "http://psi.udir.no/kl06/K15200",
+            "url-data": "http://data.udir.no/kl06/K15200",
+            "tittel": "utvikle, bruke og gjere greie for ulike metodar i hovudrekning, overslagsrekning og skriftleg rekning med dei fire rekneartane"
+          },
+          {
+            "rekkefoelge": 5,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15201",
+            "uri": "http://psi.udir.no/kl06/K15201",
+            "url-data": "http://data.udir.no/kl06/K15201",
+            "tittel": "behandle, faktorisere og forenkle algebrauttrykk, knyte uttrykka til praktiske situasjonar, rekne med formlar, parentesar og brøkuttrykk og bruke kvadratsetningane"
+          },
+          {
+            "rekkefoelge": 6,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15202",
+            "uri": "http://psi.udir.no/kl06/K15202",
+            "url-data": "http://data.udir.no/kl06/K15202",
+            "tittel": "løyse likningar og ulikskapar av første grad og likningssystem med to ukjende og bruke dette til å løyse praktiske og teoretiske problem"
+          },
+          {
+            "rekkefoelge": 7,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15203",
+            "uri": "http://psi.udir.no/kl06/K15203",
+            "url-data": "http://data.udir.no/kl06/K15203",
+            "tittel": "gjere berekningar om forbruk, bruk av kredittkort, inntekt, lån og sparing, setje opp budsjett og rekneskap ved å bruke rekneark og gjere greie for berekningar og presentere resultata"
+          },
+          {
+            "rekkefoelge": 8,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15204",
+            "uri": "http://psi.udir.no/kl06/K15204",
+            "url-data": "http://data.udir.no/kl06/K15204",
+            "tittel": "analysere samansette problemstillingar, identifisere faste og variable storleikar, kople samansette problemstillingar til kjende løysingsmetodar, gjennomføre berekningar og presentere resultata på ein formålstenleg måte"
+          },
+          {
+            "rekkefoelge": 9,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15205",
+            "uri": "http://psi.udir.no/kl06/K15205",
+            "url-data": "http://data.udir.no/kl06/K15205",
+            "tittel": "bruke tal og variablar i utforsking, eksperimentering og praktisk og teoretisk problemløysing og i prosjekt med teknologi og design"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15206",
+            "uri": "http://psi.udir.no/kl06/K15206",
+            "url-data": "http://data.udir.no/kl06/K15206",
+            "tittel": "undersøkje og beskrive eigenskapar ved to- og tredimensjonale figurar og bruke eigenskapane i samband med konstruksjonar og berekningar"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15207",
+            "uri": "http://psi.udir.no/kl06/K15207",
+            "url-data": "http://data.udir.no/kl06/K15207",
+            "tittel": "utføre, beskrive og grunngje geometriske konstruksjonar med passar og linjal og dynamisk geometriprogram"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15208",
+            "uri": "http://psi.udir.no/kl06/K15208",
+            "url-data": "http://data.udir.no/kl06/K15208",
+            "tittel": "bruke og grunngje bruken av formlikskap og Pytagoras’ setning i berekning av ukjende storleikar"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15209",
+            "uri": "http://psi.udir.no/kl06/K15209",
+            "url-data": "http://data.udir.no/kl06/K15209",
+            "tittel": "tolke og lage arbeidsteikningar og perspektivteikningar med fleire forsvinningspunkt, med og utan digitale verktøy"
+          },
+          {
+            "rekkefoelge": 5,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15210",
+            "uri": "http://psi.udir.no/kl06/K15210",
+            "url-data": "http://data.udir.no/kl06/K15210",
+            "tittel": "bruke koordinatar til å avbilde figurar og utforske eigenskapar ved geometriske former, med og utan digitale verktøy"
+          },
+          {
+            "rekkefoelge": 6,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K8952",
+            "uri": "http://psi.udir.no/kl06/K8952",
+            "url-data": "http://data.udir.no/kl06/K8952",
+            "tittel": "utforske, eksperimentere med og formulere logiske resonnement ved hjelp av geometriske idear og gjere greie for geometriske forhold som har særleg mykje å seie i teknologi, kunst og arkitektur"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1437",
+              "uri": "http://psi.udir.no/kl06/HO1437",
+              "url-data": "http://data.udir.no/kl06/HO1437"
+            },
+            "kode": "K15211",
+            "uri": "http://psi.udir.no/kl06/K15211",
+            "url-data": "http://data.udir.no/kl06/K15211",
+            "tittel": "gjere overslag over og berekne lengd, omkrins, vinkel, areal, overflate, volum, tid, fart og massetettleik og bruke og endre målestokk"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1437",
+              "uri": "http://psi.udir.no/kl06/HO1437",
+              "url-data": "http://data.udir.no/kl06/HO1437"
+            },
+            "kode": "K8954",
+            "uri": "http://psi.udir.no/kl06/K8954",
+            "url-data": "http://data.udir.no/kl06/K8954",
+            "tittel": "velje høvelege måleiningar, forklare samanhengar og rekne om mellom ulike måleiningar, bruke og vurdere måleinstrument og målemetodar i praktisk måling og drøfte presisjon og måleusikkerheit"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1437",
+              "uri": "http://psi.udir.no/kl06/HO1437",
+              "url-data": "http://data.udir.no/kl06/HO1437"
+            },
+            "kode": "K14115",
+            "uri": "http://psi.udir.no/kl06/K14115",
+            "url-data": "http://data.udir.no/kl06/K14115",
+            "tittel": "gjere greie for talet π og bruke det i berekningar av omkrins, areal og volum"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1438",
+              "uri": "http://psi.udir.no/kl06/HO1438",
+              "url-data": "http://data.udir.no/kl06/HO1438"
+            },
+            "kode": "K8956",
+            "uri": "http://psi.udir.no/kl06/K8956",
+            "url-data": "http://data.udir.no/kl06/K8956",
+            "tittel": "gjennomføre undersøkingar og bruke databasar til å søkje etter og analysere statistiske data og vise kjeldekritikk"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1438",
+              "uri": "http://psi.udir.no/kl06/HO1438",
+              "url-data": "http://data.udir.no/kl06/HO1438"
+            },
+            "kode": "K15212",
+            "uri": "http://psi.udir.no/kl06/K15212",
+            "url-data": "http://data.udir.no/kl06/K15212",
+            "tittel": "ordne og gruppere data, finne og drøfte median, typetal, gjennomsnitt og variasjonsbreidd, presentere data, med og utan digitale verktøy, og drøfte ulike dataframstillingar og kva inntrykk dei kan gje"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1438",
+              "uri": "http://psi.udir.no/kl06/HO1438",
+              "url-data": "http://data.udir.no/kl06/HO1438"
+            },
+            "kode": "K15213",
+            "uri": "http://psi.udir.no/kl06/K15213",
+            "url-data": "http://data.udir.no/kl06/K15213",
+            "tittel": "finne og diskutere sannsyn gjennom eksperimentering, simulering og berekning i daglegdagse samanhengar og spel"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1438",
+              "uri": "http://psi.udir.no/kl06/HO1438",
+              "url-data": "http://data.udir.no/kl06/HO1438"
+            },
+            "kode": "K8959",
+            "uri": "http://psi.udir.no/kl06/K8959",
+            "url-data": "http://data.udir.no/kl06/K8959",
+            "tittel": "beskrive utfallsrom og uttrykkje sannsyn som brøk, prosent og desimaltal"
+          },
+          {
+            "rekkefoelge": 5,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1438",
+              "uri": "http://psi.udir.no/kl06/HO1438",
+              "url-data": "http://data.udir.no/kl06/HO1438"
+            },
+            "kode": "K15214",
+            "uri": "http://psi.udir.no/kl06/K15214",
+            "url-data": "http://data.udir.no/kl06/K15214",
+            "tittel": "drøfte og løyse enkle kombinatoriske problem"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1439",
+              "uri": "http://psi.udir.no/kl06/HO1439",
+              "url-data": "http://data.udir.no/kl06/HO1439"
+            },
+            "kode": "K15215",
+            "uri": "http://psi.udir.no/kl06/K15215",
+            "url-data": "http://data.udir.no/kl06/K15215",
+            "tittel": "lage funksjonar som beskriv numeriske samanhengar og praktiske situasjonar, med og utan digitale verktøy, beskrive og tolke dei og omsetje mellom ulike representasjonar av funksjonar, som grafar, tabellar, formlar og tekstar"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1439",
+              "uri": "http://psi.udir.no/kl06/HO1439",
+              "url-data": "http://data.udir.no/kl06/HO1439"
+            },
+            "kode": "K15216",
+            "uri": "http://psi.udir.no/kl06/K15216",
+            "url-data": "http://data.udir.no/kl06/K15216",
+            "tittel": "identifisere og utnytte eigenskapane til proporsjonale, omvendt proporsjonale, lineære og kvadratiske funksjonar og gje døme på praktiske situasjonar som kan beskrivast med desse funksjonane"
+          }
+        ],
+        "etter-fag": [
+          {
+            "gyldighet": {
+              "gyldig-fra": "2015-08-01T00:00:00",
+              "gyldig-til": null
+            },
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "kode": "MAT1Z33",
+            "uri": "http://psi.udir.no/kl06/MAT1Z33",
+            "url-data": "http://data.udir.no/kl06/MAT1Z33",
+            "tittel": "Matematikk 9. årstrinn"
+          },
+          {
+            "gyldighet": {
+              "gyldig-fra": "2015-08-01T00:00:00",
+              "gyldig-til": null
+            },
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "kode": "MAT1Z34",
+            "uri": "http://psi.udir.no/kl06/MAT1Z34",
+            "url-data": "http://data.udir.no/kl06/MAT1Z34",
+            "tittel": "Matematikk 10. årstrinn"
+          },
+          {
+            "gyldighet": {
+              "gyldig-fra": "2013-08-01T00:00:00",
+              "gyldig-til": "2015-07-31T00:00:00"
+            },
+            "status": "http://data.udir.no/kl06/status_utgaatt",
+            "kode": "MAT1Z20",
+            "uri": "http://psi.udir.no/kl06/MAT1Z20",
+            "url-data": "http://data.udir.no/kl06/MAT1Z20",
+            "tittel": "Matematikk 8.-10. årstrinn"
+          },
+          {
+            "gyldighet": {
+              "gyldig-fra": "2015-08-01T00:00:00",
+              "gyldig-til": null
+            },
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "kode": "MAT1Z32",
+            "uri": "http://psi.udir.no/kl06/MAT1Z32",
+            "url-data": "http://data.udir.no/kl06/MAT1Z32",
+            "tittel": "Matematikk 8. årstrinn"
+          }
+        ],
+        "etter-aarstrinn": [
+          {
+            "kode": "aarstrinn10",
+            "uri": "http://psi.udir.no/kl06/aarstrinn10",
+            "url-data": "http://data.udir.no/kl06/aarstrinn10",
+            "tittel": "Tiende årstrinn"
+          }
+        ],
+        "benyttes-paa-aarstrinn": [
+          {
+            "kode": "aarstrinn8",
+            "uri": "http://psi.udir.no/kl06/aarstrinn8",
+            "url-data": "http://data.udir.no/kl06/aarstrinn8",
+            "tittel": "Åttende årstrinn"
+          },
+          {
+            "kode": "aarstrinn9",
+            "uri": "http://psi.udir.no/kl06/aarstrinn9",
+            "url-data": "http://data.udir.no/kl06/aarstrinn9",
+            "tittel": "Niende årstrinn"
+          },
+          {
+            "kode": "aarstrinn10",
+            "uri": "http://psi.udir.no/kl06/aarstrinn10",
+            "url-data": "http://data.udir.no/kl06/aarstrinn10",
+            "tittel": "Tiende årstrinn"
+          }
+        ]
+      },
+      {
+        "id": "uuid:0c6311a0-39b4-41d3-bf60-1630e5e59f3c",
+        "kode": "KMS931",
+        "uri": "http://psi.udir.no/kl06/KMS931",
+        "url-data": "http://data.udir.no/kl06/KMS931",
+        "tittel": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Kompetansemål etter1T – Vg1 studieførebuande utdanningsprogram"
+          }
+        ],
+        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett",
+        "maal-for-kompetansemaalene-overskrift": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Mål for opplæringen er at eleven skal kunne"
+          }
+        ],
+        "rekkefoelge": 5,
+        "programfag": null,
+        "hovedomraader-i-kontekst-av-kompetansemaalsett": [
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Tall og algebra "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Hovedområdet tall og algebra handler om å utvikle tallforståelse og innsikt i hvordan tall og tallbehandling inngår i systemer og mønster. Med tall kan man kvantifisere mengder og størrelser. Området tall omfatter både hele tall, brøk, desimaltall og prosent. Algebra i skolen generaliserer tallregning ved at bokstaver eller andre symboler representerer tall. Det gir anledning til å beskrive og analysere mønster og sammenhenger. Algebra benyttes også i forbindelse med hovedområdene geometri og funksjoner.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 1,
+            "kode": "HO1435",
+            "uri": "http://psi.udir.no/kl06/HO1435",
+            "url-data": "http://data.udir.no/kl06/HO1435"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Geometri "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Geometri i skolen handler blant annet om å analysere egenskaper ved to- og tredimensjonale figurer og gjøre konstruksjoner og beregninger. Man studerer dynamiske prosesser som speiling, rotasjon og forskyvning. Hovedområdet omfatter også å beskrive plassering og forflytning i rutenett, kart og koordinatsystemer. </p>"
+                }
+              ]
+            },
+            "rekkefoelge": 2,
+            "kode": "HO1436",
+            "uri": "http://psi.udir.no/kl06/HO1436",
+            "url-data": "http://data.udir.no/kl06/HO1436"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Sannsynlighet"
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Statistikk omfatter å planlegge, samle inn, organisere, analysere og presentere data. I analysen av data hører det med å beskrive generelle trekk ved datamaterialet. Å vurdere og se kritisk på konklusjoner og framstilling av data er en sentral del av denne prosessen. I sannsynlighetsregning tallfester tallfestes hvor stor sjanse det er for at en hendelse skal skje. I kombinatorikk arbeider man med systematiske måter å telle opp mulige utfall på for å kunne beregne sannsynlighet.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 3,
+            "kode": "HO1438",
+            "uri": "http://psi.udir.no/kl06/HO1438",
+            "url-data": "http://data.udir.no/kl06/HO1438"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Funksjoner "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">En funksjon beskriver endring eller utvikling av en størrelse som er avhengig av en annen, på en entydig måte. Funksjoner kan uttrykkes på flere måter, for eksempel med formler, tabeller og grafer. Analyse av funksjoner går ut på å lete etter spesielle egenskaper, som hvor raskt en utvikling går, og når utviklingen får spesielle verdier.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 4,
+            "kode": "HO1439",
+            "uri": "http://psi.udir.no/kl06/HO1439",
+            "url-data": "http://data.udir.no/kl06/HO1439"
+          }
+        ],
+        "kompetansemaal": [
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15217",
+            "uri": "http://psi.udir.no/kl06/K15217",
+            "url-data": "http://data.udir.no/kl06/K15217",
+            "tittel": "tolke, bearbeide, vurdere og drøfte det matematiske innhaldet i ulike tekstar"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15218",
+            "uri": "http://psi.udir.no/kl06/K15218",
+            "url-data": "http://data.udir.no/kl06/K15218",
+            "tittel": "vurdere, velje og bruke matematiske metodar og verktøy til å løyse problem frå ulike fag og samfunnsområde og reflektere over, vurdere og presentere løysingane på ein formålstenleg måte"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15219",
+            "uri": "http://psi.udir.no/kl06/K15219",
+            "url-data": "http://data.udir.no/kl06/K15219",
+            "tittel": "rekne med rotuttrykk, potensar med rasjonal eksponent og tal på standardform, bokstavuttrykk, formlar, parentesuttrykk og rasjonale og kvadratiske uttrykk med tal og bokstavar, faktorisere kvadratiske uttrykk, bruke kvadratsetningane og lage fullstendige kvadrat"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15220",
+            "uri": "http://psi.udir.no/kl06/K15220",
+            "url-data": "http://data.udir.no/kl06/K15220",
+            "tittel": "omforme uttrykk og løyse likningar, ulikskapar og likningssystem av første og andre grad og enkle likningar med eksponential- og logaritmefunksjonar, både ved rekning og med digitale verktøy"
+          },
+          {
+            "rekkefoelge": 5,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15221",
+            "uri": "http://psi.udir.no/kl06/K15221",
+            "url-data": "http://data.udir.no/kl06/K15221",
+            "tittel": "omforme ei praktisk problemstilling til ei likning, ein ulikskap eller eit likningssystem, løyse det matematiske problemet både med og utan digitale verktøy, presentere og grunngje løysinga og vurdere gyldigheitsområde og avgrensingar"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K8968",
+            "uri": "http://psi.udir.no/kl06/K8968",
+            "url-data": "http://data.udir.no/kl06/K8968",
+            "tittel": "gjere greie for definisjonane av sinus, cosinus og tangens og bruke trigonometri til å berekne lengder, vinklar og areal i vilkårlege trekantar"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15222",
+            "uri": "http://psi.udir.no/kl06/K15222",
+            "url-data": "http://data.udir.no/kl06/K15222",
+            "tittel": "bruke geometri i planet til å analysere og løyse samansette teoretiske og praktiske problem med lengder, vinklar og areal"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15223",
+            "uri": "http://psi.udir.no/kl06/K15223",
+            "url-data": "http://data.udir.no/kl06/K15223",
+            "tittel": "lage og bruke skisser og teikningar til å formulere problemstillingar, i oppgåveløysing og til å presentere og grunngje løysingane, med og utan bruk av digitale verktøy"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1438",
+              "uri": "http://psi.udir.no/kl06/HO1438",
+              "url-data": "http://data.udir.no/kl06/HO1438"
+            },
+            "kode": "K15224",
+            "uri": "http://psi.udir.no/kl06/K15224",
+            "url-data": "http://data.udir.no/kl06/K15224",
+            "tittel": "formulere, eksperimentere med og drøfte uniforme og ikkje-uniforme sannsynsmodellar"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1438",
+              "uri": "http://psi.udir.no/kl06/HO1438",
+              "url-data": "http://data.udir.no/kl06/HO1438"
+            },
+            "kode": "K15225",
+            "uri": "http://psi.udir.no/kl06/K15225",
+            "url-data": "http://data.udir.no/kl06/K15225",
+            "tittel": "berekne sannsyn ved å telje opp gunstige og moglege utfall, systematisere oppteljingar ved hjelp av krysstabellar, venndiagram og val-tre og bruke addisjonssetninga og produktsetninga"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1439",
+              "uri": "http://psi.udir.no/kl06/HO1439",
+              "url-data": "http://data.udir.no/kl06/HO1439"
+            },
+            "kode": "K15226",
+            "uri": "http://psi.udir.no/kl06/K15226",
+            "url-data": "http://data.udir.no/kl06/K15226",
+            "tittel": "gjere greie for funksjonsomgrepet og kunne omsetje mellom ulike representasjonar av funksjonar"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1439",
+              "uri": "http://psi.udir.no/kl06/HO1439",
+              "url-data": "http://data.udir.no/kl06/HO1439"
+            },
+            "kode": "K15227",
+            "uri": "http://psi.udir.no/kl06/K15227",
+            "url-data": "http://data.udir.no/kl06/K15227",
+            "tittel": "berekne nullpunkt, ekstremalpunkt, skjeringspunkt og gjennomsnittleg vekstfart, finne tilnærma verdiar for momentan vekstfart og gje nokre praktiske tolkingar av desse aspekta"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1439",
+              "uri": "http://psi.udir.no/kl06/HO1439",
+              "url-data": "http://data.udir.no/kl06/HO1439"
+            },
+            "kode": "K8976",
+            "uri": "http://psi.udir.no/kl06/K8976",
+            "url-data": "http://data.udir.no/kl06/K8976",
+            "tittel": "gjere greie for definisjonen av den deriverte, bruke definisjonen til å utleie ein derivasjonsregel for polynomfunksjonar og bruke denne regelen til å drøfte funksjonar"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1439",
+              "uri": "http://psi.udir.no/kl06/HO1439",
+              "url-data": "http://data.udir.no/kl06/HO1439"
+            },
+            "kode": "K15228",
+            "uri": "http://psi.udir.no/kl06/K15228",
+            "url-data": "http://data.udir.no/kl06/K15228",
+            "tittel": "lage, tolke og gjere greie for funksjonar som beskriv praktiske problemstillingar, analysere empiriske funksjonar og finne uttrykk for tilnærma lineære samanhengar, med og utan bruk av digitale verktøy"
+          },
+          {
+            "rekkefoelge": 5,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1439",
+              "uri": "http://psi.udir.no/kl06/HO1439",
+              "url-data": "http://data.udir.no/kl06/HO1439"
+            },
+            "kode": "K15229",
+            "uri": "http://psi.udir.no/kl06/K15229",
+            "url-data": "http://data.udir.no/kl06/K15229",
+            "tittel": "bruke digitale verktøy til å framstille og analysere kombinasjonar av polynomfunksjonar, rotfunksjonar, rasjonale funksjonar, eksponentialfunksjonar og potensfunksjonar"
+          }
+        ],
+        "etter-fag": [
+          {
+            "gyldighet": {
+              "gyldig-fra": "2013-08-01T00:00:00",
+              "gyldig-til": null
+            },
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "kode": "MAT1Z22",
+            "uri": "http://psi.udir.no/kl06/MAT1Z22",
+            "url-data": "http://data.udir.no/kl06/MAT1Z22",
+            "tittel": "Matematikk 1T"
+          }
+        ],
+        "etter-aarstrinn": [
+          {
+            "kode": "vg1",
+            "uri": "http://psi.udir.no/kl06/vg1",
+            "url-data": "http://data.udir.no/kl06/vg1",
+            "tittel": "Videregående trinn 1"
+          }
+        ],
+        "benyttes-paa-aarstrinn": [
+          {
+            "kode": "vg1",
+            "uri": "http://psi.udir.no/kl06/vg1",
+            "url-data": "http://data.udir.no/kl06/vg1",
+            "tittel": "Videregående trinn 1"
+          }
+        ]
+      },
+      {
+        "id": "uuid:e3c30c2a-72b4-4458-875c-045503dda3de",
+        "kode": "KMS932",
+        "uri": "http://psi.udir.no/kl06/KMS932",
+        "url-data": "http://data.udir.no/kl06/KMS932",
+        "tittel": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Kompetansemål etter 1P – Vg1 studieforberedende utdanningsprogram"
+          }
+        ],
+        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett",
+        "maal-for-kompetansemaalene-overskrift": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Mål for opplæringen er at eleven skal kunne"
+          }
+        ],
+        "rekkefoelge": 6,
+        "programfag": null,
+        "hovedomraader-i-kontekst-av-kompetansemaalsett": [
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Tall og algebra "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Hovedområdet tall og algebra handler om å utvikle tallforståelse og innsikt i hvordan tall og tallbehandling inngår i systemer og mønster. Med tall kan man kvantifisere mengder og størrelser. Området tall omfatter både hele tall, brøk, desimaltall og prosent. Algebra i skolen generaliserer tallregning ved at bokstaver eller andre symboler representerer tall. Det gir anledning til å beskrive og analysere mønster og sammenhenger. Algebra benyttes også i forbindelse med hovedområdene geometri og funksjoner.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 1,
+            "kode": "HO1435",
+            "uri": "http://psi.udir.no/kl06/HO1435",
+            "url-data": "http://data.udir.no/kl06/HO1435"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Geometri "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Geometri i skolen handler blant annet om å analysere egenskaper ved to- og tredimensjonale figurer og gjøre konstruksjoner og beregninger. Man studerer dynamiske prosesser som speiling, rotasjon og forskyvning. Hovedområdet omfatter også å beskrive plassering og forflytning i rutenett, kart og koordinatsystemer. </p>"
+                }
+              ]
+            },
+            "rekkefoelge": 2,
+            "kode": "HO1436",
+            "uri": "http://psi.udir.no/kl06/HO1436",
+            "url-data": "http://data.udir.no/kl06/HO1436"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Sannsynlighet"
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Statistikk omfatter å planlegge, samle inn, organisere, analysere og presentere data. I analysen av data hører det med å beskrive generelle trekk ved datamaterialet. Å vurdere og se kritisk på konklusjoner og framstilling av data er en sentral del av denne prosessen. I sannsynlighetsregning tallfester tallfestes hvor stor sjanse det er for at en hendelse skal skje. I kombinatorikk arbeider man med systematiske måter å telle opp mulige utfall på for å kunne beregne sannsynlighet.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 3,
+            "kode": "HO1438",
+            "uri": "http://psi.udir.no/kl06/HO1438",
+            "url-data": "http://data.udir.no/kl06/HO1438"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Funksjoner "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">En funksjon beskriver endring eller utvikling av en størrelse som er avhengig av en annen, på en entydig måte. Funksjoner kan uttrykkes på flere måter, for eksempel med formler, tabeller og grafer. Analyse av funksjoner går ut på å lete etter spesielle egenskaper, som hvor raskt en utvikling går, og når utviklingen får spesielle verdier.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 4,
+            "kode": "HO1439",
+            "uri": "http://psi.udir.no/kl06/HO1439",
+            "url-data": "http://data.udir.no/kl06/HO1439"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Økonomi"
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Hovedområdet økonomi handler om beregninger og vurderinger som gjelder økonomiske forhold.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 5,
+            "kode": "HO1440",
+            "uri": "http://psi.udir.no/kl06/HO1440",
+            "url-data": "http://data.udir.no/kl06/HO1440"
+          }
+        ],
+        "kompetansemaal": [
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15230",
+            "uri": "http://psi.udir.no/kl06/K15230",
+            "url-data": "http://data.udir.no/kl06/K15230",
+            "tittel": "gjere overslag over svar, rekne praktiske oppgåver, med og utan digitale verktøy, presentere resultata og vurdere kor rimelege dei er"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15231",
+            "uri": "http://psi.udir.no/kl06/K15231",
+            "url-data": "http://data.udir.no/kl06/K15231",
+            "tittel": "tolke, bearbeide, vurdere og diskutere det matematiske innhaldet i skriftlege, munnlege og grafiske framstillingar"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15232",
+            "uri": "http://psi.udir.no/kl06/K15232",
+            "url-data": "http://data.udir.no/kl06/K15232",
+            "tittel": "forenkle fleirledda uttrykk og løyse likningar av første grad og enkle potenslikningar"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15233",
+            "uri": "http://psi.udir.no/kl06/K15233",
+            "url-data": "http://data.udir.no/kl06/K15233",
+            "tittel": "tolke og bruke formlar som gjeld daglegliv og yrkesliv"
+          },
+          {
+            "rekkefoelge": 5,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K8982",
+            "uri": "http://psi.udir.no/kl06/K8982",
+            "url-data": "http://data.udir.no/kl06/K8982",
+            "tittel": "rekne med forhold, prosent, prosentpoeng og vekstfaktor"
+          },
+          {
+            "rekkefoelge": 6,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K8983",
+            "uri": "http://psi.udir.no/kl06/K8983",
+            "url-data": "http://data.udir.no/kl06/K8983",
+            "tittel": "behandle proporsjonale og omvendt proporsjonale storleikar i praktiske samanhengar"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15241",
+            "uri": "http://psi.udir.no/kl06/K15241",
+            "url-data": "http://data.udir.no/kl06/K15241",
+            "tittel": "bruke og grunngje bruken av formlikskap, målestokk og Pytagoras’ setning til berekningar og i praktisk arbeid"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15242",
+            "uri": "http://psi.udir.no/kl06/K15242",
+            "url-data": "http://data.udir.no/kl06/K15242",
+            "tittel": "løyse problem som gjeld lengd, vinkel, areal og volum"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15243",
+            "uri": "http://psi.udir.no/kl06/K15243",
+            "url-data": "http://data.udir.no/kl06/K15243",
+            "tittel": "rekne med ulike måleiningar, bruke ulike målereiskapar, vurdere kva for målereiskapar som er formålstenlege, og vurdere kor usikre målingane er"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15244",
+            "uri": "http://psi.udir.no/kl06/K15244",
+            "url-data": "http://data.udir.no/kl06/K15244",
+            "tittel": "tolke, lage og bruke skisser og arbeidsteikningar på problemstillingar frå kultur- og yrkesliv og presentere og grunngje løysingar"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1438",
+              "uri": "http://psi.udir.no/kl06/HO1438",
+              "url-data": "http://data.udir.no/kl06/HO1438"
+            },
+            "kode": "K8993",
+            "uri": "http://psi.udir.no/kl06/K8993",
+            "url-data": "http://data.udir.no/kl06/K8993",
+            "tittel": "lage døme og simuleringar av tilfeldige hendingar og gjere greie for omgrepet sannsyn"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1438",
+              "uri": "http://psi.udir.no/kl06/HO1438",
+              "url-data": "http://data.udir.no/kl06/HO1438"
+            },
+            "kode": "K15245",
+            "uri": "http://psi.udir.no/kl06/K15245",
+            "url-data": "http://data.udir.no/kl06/K15245",
+            "tittel": "berekne sannsyn ved å telje opp gunstige og moglege utfall, systematisere oppteljingar ved hjelp av krysstabellar, venndiagram og val-tre og bruke addisjonssetninga og produktsetninga i praktiske samanhengar"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1439",
+              "uri": "http://psi.udir.no/kl06/HO1439",
+              "url-data": "http://data.udir.no/kl06/HO1439"
+            },
+            "kode": "K8997",
+            "uri": "http://psi.udir.no/kl06/K8997",
+            "url-data": "http://data.udir.no/kl06/K8997",
+            "tittel": "gjere greie for omgrepet lineær vekst, vise gangen i slik vekst og bruke dette i praktiske døme, også digitalt"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1439",
+              "uri": "http://psi.udir.no/kl06/HO1439",
+              "url-data": "http://data.udir.no/kl06/HO1439"
+            },
+            "kode": "K8996",
+            "uri": "http://psi.udir.no/kl06/K8996",
+            "url-data": "http://data.udir.no/kl06/K8996",
+            "tittel": "omsetje mellom ulike representasjonar av funksjonar"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1439",
+              "uri": "http://psi.udir.no/kl06/HO1439",
+              "url-data": "http://data.udir.no/kl06/HO1439"
+            },
+            "kode": "K15246",
+            "uri": "http://psi.udir.no/kl06/K15246",
+            "url-data": "http://data.udir.no/kl06/K15246",
+            "tittel": "undersøkje funksjonar som beskriv praktiske situasjonar, ved å fastsetje nullpunkt, ekstremalpunkt og skjeringspunkt og tolke den praktiske verdien av resultata"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1440",
+              "uri": "http://psi.udir.no/kl06/HO1440",
+              "url-data": "http://data.udir.no/kl06/HO1440"
+            },
+            "kode": "K15247",
+            "uri": "http://psi.udir.no/kl06/K15247",
+            "url-data": "http://data.udir.no/kl06/K15247",
+            "tittel": "gjere greie for og rekne med prisindeks, kroneverdi, reallønn og nominell lønn og berekne inntekt, skatt og avgifter"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1440",
+              "uri": "http://psi.udir.no/kl06/HO1440",
+              "url-data": "http://data.udir.no/kl06/HO1440"
+            },
+            "kode": "K15248",
+            "uri": "http://psi.udir.no/kl06/K15248",
+            "url-data": "http://data.udir.no/kl06/K15248",
+            "tittel": "vurdere forbruk og bruk av kredittkort og setje opp budsjett og rekneskap ved hjelp av rekneark"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1440",
+              "uri": "http://psi.udir.no/kl06/HO1440",
+              "url-data": "http://data.udir.no/kl06/HO1440"
+            },
+            "kode": "K15249",
+            "uri": "http://psi.udir.no/kl06/K15249",
+            "url-data": "http://data.udir.no/kl06/K15249",
+            "tittel": "undersøkje og vurdere ulike former for lån og sparing"
+          }
+        ],
+        "etter-fag": [
+          {
+            "gyldighet": {
+              "gyldig-fra": "2013-08-01T00:00:00",
+              "gyldig-til": null
+            },
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "kode": "MAT1Z21",
+            "uri": "http://psi.udir.no/kl06/MAT1Z21",
+            "url-data": "http://data.udir.no/kl06/MAT1Z21",
+            "tittel": "Matematikk 1P"
+          }
+        ],
+        "etter-aarstrinn": [
+          {
+            "kode": "vg1",
+            "uri": "http://psi.udir.no/kl06/vg1",
+            "url-data": "http://data.udir.no/kl06/vg1",
+            "tittel": "Videregående trinn 1"
+          }
+        ],
+        "benyttes-paa-aarstrinn": [
+          {
+            "kode": "vg1",
+            "uri": "http://psi.udir.no/kl06/vg1",
+            "url-data": "http://data.udir.no/kl06/vg1",
+            "tittel": "Videregående trinn 1"
+          }
+        ]
+      },
+      {
+        "id": "uuid:987a488c-2975-468a-8166-bd22370523c3",
+        "kode": "KMS933",
+        "uri": "http://psi.udir.no/kl06/KMS933",
+        "url-data": "http://data.udir.no/kl06/KMS933",
+        "tittel": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Kompetansemål etter 1T-Y – Vg1 yrkesfaglige utdanningsprogram"
+          }
+        ],
+        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett",
+        "maal-for-kompetansemaalene-overskrift": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Mål for opplæringen er at eleven skal kunne"
+          }
+        ],
+        "rekkefoelge": 7,
+        "programfag": null,
+        "hovedomraader-i-kontekst-av-kompetansemaalsett": [
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Tall og algebra "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Hovedområdet tall og algebra handler om å utvikle tallforståelse og innsikt i hvordan tall og tallbehandling inngår i systemer og mønster. Med tall kan man kvantifisere mengder og størrelser. Området tall omfatter både hele tall, brøk, desimaltall og prosent. Algebra i skolen generaliserer tallregning ved at bokstaver eller andre symboler representerer tall. Det gir anledning til å beskrive og analysere mønster og sammenhenger. Algebra benyttes også i forbindelse med hovedområdene geometri og funksjoner.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 1,
+            "kode": "HO1435",
+            "uri": "http://psi.udir.no/kl06/HO1435",
+            "url-data": "http://data.udir.no/kl06/HO1435"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Geometri "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Geometri i skolen handler blant annet om å analysere egenskaper ved to- og tredimensjonale figurer og gjøre konstruksjoner og beregninger. Man studerer dynamiske prosesser som speiling, rotasjon og forskyvning. Hovedområdet omfatter også å beskrive plassering og forflytning i rutenett, kart og koordinatsystemer. </p>"
+                }
+              ]
+            },
+            "rekkefoelge": 2,
+            "kode": "HO1436",
+            "uri": "http://psi.udir.no/kl06/HO1436",
+            "url-data": "http://data.udir.no/kl06/HO1436"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Funksjoner "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">En funksjon beskriver endring eller utvikling av en størrelse som er avhengig av en annen, på en entydig måte. Funksjoner kan uttrykkes på flere måter, for eksempel med formler, tabeller og grafer. Analyse av funksjoner går ut på å lete etter spesielle egenskaper, som hvor raskt en utvikling går, og når utviklingen får spesielle verdier.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 3,
+            "kode": "HO1439",
+            "uri": "http://psi.udir.no/kl06/HO1439",
+            "url-data": "http://data.udir.no/kl06/HO1439"
+          }
+        ],
+        "kompetansemaal": [
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15217",
+            "uri": "http://psi.udir.no/kl06/K15217",
+            "url-data": "http://data.udir.no/kl06/K15217",
+            "tittel": "tolke, bearbeide, vurdere og drøfte det matematiske innhaldet i ulike tekstar"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15218",
+            "uri": "http://psi.udir.no/kl06/K15218",
+            "url-data": "http://data.udir.no/kl06/K15218",
+            "tittel": "vurdere, velje og bruke matematiske metodar og verktøy til å løyse problem frå ulike fag og samfunnsområde og reflektere over, vurdere og presentere løysingane på ein formålstenleg måte"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15219",
+            "uri": "http://psi.udir.no/kl06/K15219",
+            "url-data": "http://data.udir.no/kl06/K15219",
+            "tittel": "rekne med rotuttrykk, potensar med rasjonal eksponent og tal på standardform, bokstavuttrykk, formlar, parentesuttrykk og rasjonale og kvadratiske uttrykk med tal og bokstavar, faktorisere kvadratiske uttrykk, bruke kvadratsetningane og lage fullstendige kvadrat"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15221",
+            "uri": "http://psi.udir.no/kl06/K15221",
+            "url-data": "http://data.udir.no/kl06/K15221",
+            "tittel": "omforme ei praktisk problemstilling til ei likning, ein ulikskap eller eit likningssystem, løyse det matematiske problemet både med og utan digitale verktøy, presentere og grunngje løysinga og vurdere gyldigheitsområde og avgrensingar"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K8968",
+            "uri": "http://psi.udir.no/kl06/K8968",
+            "url-data": "http://data.udir.no/kl06/K8968",
+            "tittel": "gjere greie for definisjonane av sinus, cosinus og tangens og bruke trigonometri til å berekne lengder, vinklar og areal i vilkårlege trekantar"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15222",
+            "uri": "http://psi.udir.no/kl06/K15222",
+            "url-data": "http://data.udir.no/kl06/K15222",
+            "tittel": "bruke geometri i planet til å analysere og løyse samansette teoretiske og praktiske problem med lengder, vinklar og areal"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15223",
+            "uri": "http://psi.udir.no/kl06/K15223",
+            "url-data": "http://data.udir.no/kl06/K15223",
+            "tittel": "lage og bruke skisser og teikningar til å formulere problemstillingar, i oppgåveløysing og til å presentere og grunngje løysingane, med og utan bruk av digitale verktøy"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1439",
+              "uri": "http://psi.udir.no/kl06/HO1439",
+              "url-data": "http://data.udir.no/kl06/HO1439"
+            },
+            "kode": "K15228",
+            "uri": "http://psi.udir.no/kl06/K15228",
+            "url-data": "http://data.udir.no/kl06/K15228",
+            "tittel": "lage, tolke og gjere greie for funksjonar som beskriv praktiske problemstillingar, analysere empiriske funksjonar og finne uttrykk for tilnærma lineære samanhengar, med og utan bruk av digitale verktøy"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1439",
+              "uri": "http://psi.udir.no/kl06/HO1439",
+              "url-data": "http://data.udir.no/kl06/HO1439"
+            },
+            "kode": "K15226",
+            "uri": "http://psi.udir.no/kl06/K15226",
+            "url-data": "http://data.udir.no/kl06/K15226",
+            "tittel": "gjere greie for funksjonsomgrepet og kunne omsetje mellom ulike representasjonar av funksjonar"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1439",
+              "uri": "http://psi.udir.no/kl06/HO1439",
+              "url-data": "http://data.udir.no/kl06/HO1439"
+            },
+            "kode": "K15227",
+            "uri": "http://psi.udir.no/kl06/K15227",
+            "url-data": "http://data.udir.no/kl06/K15227",
+            "tittel": "berekne nullpunkt, ekstremalpunkt, skjeringspunkt og gjennomsnittleg vekstfart, finne tilnærma verdiar for momentan vekstfart og gje nokre praktiske tolkingar av desse aspekta"
+          }
+        ],
+        "etter-fag": [
+          {
+            "gyldighet": {
+              "gyldig-fra": "2013-08-01T00:00:00",
+              "gyldig-til": null
+            },
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "kode": "MAT1Z24",
+            "uri": "http://psi.udir.no/kl06/MAT1Z24",
+            "url-data": "http://data.udir.no/kl06/MAT1Z24",
+            "tittel": "Matematikk 1T-Y"
+          }
+        ],
+        "etter-aarstrinn": [
+          {
+            "kode": "vg1",
+            "uri": "http://psi.udir.no/kl06/vg1",
+            "url-data": "http://data.udir.no/kl06/vg1",
+            "tittel": "Videregående trinn 1"
+          }
+        ],
+        "benyttes-paa-aarstrinn": [
+          {
+            "kode": "vg1",
+            "uri": "http://psi.udir.no/kl06/vg1",
+            "url-data": "http://data.udir.no/kl06/vg1",
+            "tittel": "Videregående trinn 1"
+          }
+        ]
+      },
+      {
+        "id": "uuid:52a4c75f-c5ea-4b4c-b63c-5e77c734000a",
+        "kode": "KMS934",
+        "uri": "http://psi.udir.no/kl06/KMS934",
+        "url-data": "http://data.udir.no/kl06/KMS934",
+        "tittel": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Kompetansemål etter 1P-Y – Vg1 yrkesfaglige utdanningsprogram"
+          }
+        ],
+        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett",
+        "maal-for-kompetansemaalene-overskrift": [
+          {
+            "spraak": "http://data.udir.no/kl06/nob",
+            "verdi": "Mål for opplæringen er at eleven skal kunne"
+          }
+        ],
+        "rekkefoelge": 8,
+        "programfag": null,
+        "hovedomraader-i-kontekst-av-kompetansemaalsett": [
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Tall og algebra "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Hovedområdet tall og algebra handler om å utvikle tallforståelse og innsikt i hvordan tall og tallbehandling inngår i systemer og mønster. Med tall kan man kvantifisere mengder og størrelser. Området tall omfatter både hele tall, brøk, desimaltall og prosent. Algebra i skolen generaliserer tallregning ved at bokstaver eller andre symboler representerer tall. Det gir anledning til å beskrive og analysere mønster og sammenhenger. Algebra benyttes også i forbindelse med hovedområdene geometri og funksjoner.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 1,
+            "kode": "HO1435",
+            "uri": "http://psi.udir.no/kl06/HO1435",
+            "url-data": "http://data.udir.no/kl06/HO1435"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Geometri "
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Geometri i skolen handler blant annet om å analysere egenskaper ved to- og tredimensjonale figurer og gjøre konstruksjoner og beregninger. Man studerer dynamiske prosesser som speiling, rotasjon og forskyvning. Hovedområdet omfatter også å beskrive plassering og forflytning i rutenett, kart og koordinatsystemer. </p>"
+                }
+              ]
+            },
+            "rekkefoelge": 2,
+            "kode": "HO1436",
+            "uri": "http://psi.udir.no/kl06/HO1436",
+            "url-data": "http://data.udir.no/kl06/HO1436"
+          },
+          {
+            "hovedomraadeverdier-under-kompetansemaalsett": {
+              "tittel": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "Økonomi"
+                }
+              ],
+              "beskrivelse": [
+                {
+                  "spraak": "http://data.udir.no/kl06/nob",
+                  "verdi": "<p class=\"grep\">Hovedområdet økonomi handler om beregninger og vurderinger som gjelder økonomiske forhold.</p>"
+                }
+              ]
+            },
+            "rekkefoelge": 3,
+            "kode": "HO1440",
+            "uri": "http://psi.udir.no/kl06/HO1440",
+            "url-data": "http://data.udir.no/kl06/HO1440"
+          }
+        ],
+        "kompetansemaal": [
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15230",
+            "uri": "http://psi.udir.no/kl06/K15230",
+            "url-data": "http://data.udir.no/kl06/K15230",
+            "tittel": "gjere overslag over svar, rekne praktiske oppgåver, med og utan digitale verktøy, presentere resultata og vurdere kor rimelege dei er"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15231",
+            "uri": "http://psi.udir.no/kl06/K15231",
+            "url-data": "http://data.udir.no/kl06/K15231",
+            "tittel": "tolke, bearbeide, vurdere og diskutere det matematiske innhaldet i skriftlege, munnlege og grafiske framstillingar"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15232",
+            "uri": "http://psi.udir.no/kl06/K15232",
+            "url-data": "http://data.udir.no/kl06/K15232",
+            "tittel": "forenkle fleirledda uttrykk og løyse likningar av første grad og enkle potenslikningar"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K15233",
+            "uri": "http://psi.udir.no/kl06/K15233",
+            "url-data": "http://data.udir.no/kl06/K15233",
+            "tittel": "tolke og bruke formlar som gjeld daglegliv og yrkesliv"
+          },
+          {
+            "rekkefoelge": 5,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K8982",
+            "uri": "http://psi.udir.no/kl06/K8982",
+            "url-data": "http://data.udir.no/kl06/K8982",
+            "tittel": "rekne med forhold, prosent, prosentpoeng og vekstfaktor"
+          },
+          {
+            "rekkefoelge": 6,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1435",
+              "uri": "http://psi.udir.no/kl06/HO1435",
+              "url-data": "http://data.udir.no/kl06/HO1435"
+            },
+            "kode": "K8983",
+            "uri": "http://psi.udir.no/kl06/K8983",
+            "url-data": "http://data.udir.no/kl06/K8983",
+            "tittel": "behandle proporsjonale og omvendt proporsjonale storleikar i praktiske samanhengar"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15241",
+            "uri": "http://psi.udir.no/kl06/K15241",
+            "url-data": "http://data.udir.no/kl06/K15241",
+            "tittel": "bruke og grunngje bruken av formlikskap, målestokk og Pytagoras’ setning til berekningar og i praktisk arbeid"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15242",
+            "uri": "http://psi.udir.no/kl06/K15242",
+            "url-data": "http://data.udir.no/kl06/K15242",
+            "tittel": "løyse problem som gjeld lengd, vinkel, areal og volum"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15243",
+            "uri": "http://psi.udir.no/kl06/K15243",
+            "url-data": "http://data.udir.no/kl06/K15243",
+            "tittel": "rekne med ulike måleiningar, bruke ulike målereiskapar, vurdere kva for målereiskapar som er formålstenlege, og vurdere kor usikre målingane er"
+          },
+          {
+            "rekkefoelge": 4,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1436",
+              "uri": "http://psi.udir.no/kl06/HO1436",
+              "url-data": "http://data.udir.no/kl06/HO1436"
+            },
+            "kode": "K15244",
+            "uri": "http://psi.udir.no/kl06/K15244",
+            "url-data": "http://data.udir.no/kl06/K15244",
+            "tittel": "tolke, lage og bruke skisser og arbeidsteikningar på problemstillingar frå kultur- og yrkesliv og presentere og grunngje løysingar"
+          },
+          {
+            "rekkefoelge": 1,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1440",
+              "uri": "http://psi.udir.no/kl06/HO1440",
+              "url-data": "http://data.udir.no/kl06/HO1440"
+            },
+            "kode": "K15247",
+            "uri": "http://psi.udir.no/kl06/K15247",
+            "url-data": "http://data.udir.no/kl06/K15247",
+            "tittel": "gjere greie for og rekne med prisindeks, kroneverdi, reallønn og nominell lønn og berekne inntekt, skatt og avgifter"
+          },
+          {
+            "rekkefoelge": 2,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1440",
+              "uri": "http://psi.udir.no/kl06/HO1440",
+              "url-data": "http://data.udir.no/kl06/HO1440"
+            },
+            "kode": "K15248",
+            "uri": "http://psi.udir.no/kl06/K15248",
+            "url-data": "http://data.udir.no/kl06/K15248",
+            "tittel": "vurdere forbruk og bruk av kredittkort og setje opp budsjett og rekneskap ved hjelp av rekneark"
+          },
+          {
+            "rekkefoelge": 3,
+            "tilhoerer-hovedomraade": {
+              "kode": "HO1440",
+              "uri": "http://psi.udir.no/kl06/HO1440",
+              "url-data": "http://data.udir.no/kl06/HO1440"
+            },
+            "kode": "K15249",
+            "uri": "http://psi.udir.no/kl06/K15249",
+            "url-data": "http://data.udir.no/kl06/K15249",
+            "tittel": "undersøkje og vurdere ulike former for lån og sparing"
+          }
+        ],
+        "etter-fag": [
+          {
+            "gyldighet": {
+              "gyldig-fra": "2013-08-01T00:00:00",
+              "gyldig-til": null
+            },
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "kode": "MAT1Z23",
+            "uri": "http://psi.udir.no/kl06/MAT1Z23",
+            "url-data": "http://data.udir.no/kl06/MAT1Z23",
+            "tittel": "Matematikk 1P-Y"
+          }
+        ],
+        "etter-aarstrinn": [
+          {
+            "kode": "vg1",
+            "uri": "http://psi.udir.no/kl06/vg1",
+            "url-data": "http://data.udir.no/kl06/vg1",
+            "tittel": "Videregående trinn 1"
+          }
+        ],
+        "benyttes-paa-aarstrinn": [
+          {
+            "kode": "vg1",
+            "uri": "http://psi.udir.no/kl06/vg1",
+            "url-data": "http://data.udir.no/kl06/vg1",
+            "tittel": "Videregående trinn 1"
+          }
+        ]
+      }
+    ]
+  },
+  "vurdering-kapittel": {
+    "overskrift": [
+      {
+        "spraak": "http://data.udir.no/kl06/nob",
+        "verdi": "Vurdering"
+      }
+    ],
+    "tekst": [
+      {
+        "spraak": "http://data.udir.no/kl06/nob",
+        "verdi": "<p class=\"grep\">Retningslinjer for sluttvurdering:</p><p class=\"grep\"><b><i>Standpunktvurdering</i></b></p><table class=\"grep\"><tbody class=\"grep\"><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><b>Å</b><b>rstrinn </b></p></td><td class=\"grep\"><p class=\"grep\"><b>Ordning </b></p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">10. årstrinn </p></td><td class=\"grep\"><p class=\"grep\">Elevene skal ha én standpunktkarakter. </p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Vg1 yrkesfaglige utdanningsprogram<span class=\"grep\" />Vg1 studieforberedende utdanningsprogram </p></td><td class=\"grep\"><p class=\"grep\">Elevene skal ha én standpunktkarakter. </p></td></tr></tbody></table><p class=\"grep\"><b><i>Eksamen for elever</i></b></p><table class=\"grep\"><tbody class=\"grep\"><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><b>Å</b><b>rstrinn </b></p></td><td class=\"grep\"><p class=\"grep\"><b>Ordning </b></p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">10. årstrinn </p></td><td class=\"grep\"><p class=\"grep\">Elevene kan trekkes ut til skriftlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Elevene kan også trekkes ut til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. </p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Vg1 yrkesfaglige utdanningsprogram </p></td><td class=\"grep\"><p class=\"grep\">Elevene kan trekkes ut til skriftlig eller muntlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert lokalt. Muntlig eksamen blir utarbeidet og sensurert lokalt. </p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Vg1 studieforberedende utdanningsprogram </p></td><td class=\"grep\"><p class=\"grep\">Elevene kan trekkes ut til skriftlig eller muntlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Muntlig eksamen blir utarbeidet og sensurert lokalt. </p></td></tr></tbody></table><p class=\"grep\"><b><i>Eksamen for privatister</i></b></p><table class=\"grep\"><tbody class=\"grep\"><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\"><b>Å</b><b>rstrinn </b></p></td><td class=\"grep\"><p class=\"grep\"><b>Ordning </b></p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">10. årstrinn </p></td><td class=\"grep\"><p class=\"grep\">Se gjeldende ordning for grunnskoleopplæring for voksne. </p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Vg1 yrkesfaglige utdanningsprogram </p></td><td class=\"grep\"><p class=\"grep\">Privatistene skal opp til skriftlig eksamen. Eksamen blir utarbeidet og sensurert lokalt. </p></td></tr><tr class=\"grep\"><td class=\"grep\"><p class=\"grep\">Vg1 studieforberedende utdanningsprogram </p></td><td class=\"grep\"><p class=\"grep\">Privatistene skal opp til skriftlig eksamen. Eksamen blir utarbeidet og sensurert sentralt. </p></td></tr></tbody></table><p class=\"grep\">De generelle bestemmelsene om vurdering er fastsatt i forskrift til opplæringsloven.</p>"
+      }
+    ]
+  },
+  "merkelapper": [],
+  "opplaeringsnivaa": [
+    {
+      "kode": "opplaeringsnivaa_grunnskole",
+      "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_grunnskole",
+      "url-data": "http://data.udir.no/kl06/opplaeringsnivaa_grunnskole",
+      "tittel": "Grunnskole"
+    },
+    {
+      "kode": "opplaeringsnivaa_videregaaende",
+      "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
+      "url-data": "http://data.udir.no/kl06/opplaeringsnivaa_videregaaende",
+      "tittel": "Videregående opplæring"
+    }
+  ],
+  "siste-eksamen": null,
+  "soekehjelp-navn-motsatt-maalform": "Læreplan i matematikk fellesfag",
+  "tilleggsopplysninger": null
+}

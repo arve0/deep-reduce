@@ -148,7 +148,13 @@ The `reducer` should return the `reduced` value.
 
 
 ## Performance
-I have not given performance any thoughs. If you have any ideas, open an issue.
+`deep-reduce` traverses every node of a 149 kb JSON in 10 milliseconds, see [test.js](test.js#L68-L73).
+
+You can limit traversal to a specific part of the tree with `path`:
+
+```js
+deepReduce(object, reducer, initialValue, 'start.at.this.path')
+```
 
 
 ## Development

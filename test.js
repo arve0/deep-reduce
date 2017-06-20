@@ -64,3 +64,26 @@ assert.deepEqual(reduced, [
   { id: 'R88', name: 'resistor' },
   { id: 'C99', name: 'capacitor' },
   { id: 'C96', name: 'coil' } ])
+
+// test performance
+let obj = require('./MAT1-04.json')
+let start = Date.now()
+dr(obj, reduced => reduced)  // noop
+let end = Date.now()
+console.log(`Traversed MAT1-04.json (149kb) in ${end - start} milliseconds.`)
+
+start = Date.now()
+reduced = dr(obj, (reduced, value, path) =>
+  path.match(/kompetansemaal\.\d+$/)  // get all items of kompetansemaal arrays
+    ? reduced.push(value) && reduced
+    : reduced, [])
+end = Date.now()
+console.log(`Traversed MAT1-04.json (149kb) and got ${reduced.length} objects in ${end - start} milliseconds.`)
+
+start = Date.now()
+reduced = dr(obj, (reduced, value, path) =>
+  path.match(/kompetansemaal\.\d+$/)  // get all items of kompetansemaal arrays
+    ? reduced.push(value) && reduced
+    : reduced, [], 'kompetansemaal-kapittel.kompetansemaalsett')
+end = Date.now()
+console.log(`Traversed kompetansemaal-kapittel.kompetansemaalsett in MAT1-04.json and got ${reduced.length} objects in ${end - start} milliseconds.`)
