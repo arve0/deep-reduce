@@ -63,7 +63,7 @@ reduced = dr({
 assert.deepEqual(reduced, [
   { id: 'R88', name: 'resistor' },
   { id: 'C99', name: 'capacitor' },
-  { id: 'C96', name: 'coil' } ])
+  { id: 'C96', name: 'coil' }])
 
 // test performance
 let obj = require('./MAT1-04.json')
