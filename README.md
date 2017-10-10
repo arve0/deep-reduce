@@ -158,6 +158,7 @@ deepReduce(object, reducer, initialValue, 'start.at.this.path')
 
 ...which may give some performance gains.
 
+If you want to use this client size, bundle size is ~ 387 B, 209 B gzipped.
 
 ## Development
 ```sh
